@@ -1,0 +1,133 @@
+---
+title: "Journal Club"
+subtitle: "Prenatal Exposure to Acid-Suppressive Medications and Risk of Neuropsychiatric Disorders in Children"
+author: "JAMA Original Investigation (Published January 7, 2026)"
+format:
+  revealjs:
+    slide-number: true
+    incremental: true
+    transition: fade
+    theme: simple
+    footer: "Hong et al. JAMA. doi:10.1001/jama.2025.23956"
+---
+
+## Citation
+
+- Hong S, Lee S, Kim H, et al.
+- **Prenatal Exposure to Acid-Suppressive Medications and Risk of Neuropsychiatric Disorders in Children**
+- *JAMA*. Published online January 7, 2026.
+- doi:10.1001/jama.2025.23956
+
+## Why This Matters
+
+- PPIs/H2RAs are frequently used in pregnancy for reflux symptoms.
+- Prior studies suggested possible links with adverse child outcomes.
+- Neurodevelopmental safety signal remained uncertain, especially after controlling for shared family factors.
+
+## Clinical Question (PICO)
+
+- **Population**: South Korean mother-child pairs with births from 2010 to 2017.
+- **Exposure**: Prenatal prescription of PPI or H2 receptor antagonist.
+- **Comparison**: No acid-suppressive prescription from 30 days pre-pregnancy to delivery.
+- **Outcomes**: ADHD, ASD, intellectual disability, severe neuropsychiatric disorder, obsessive-compulsive disorder.
+
+## Study Design
+
+- Retrospective nationwide cohort using NHIS claims-linked mother-child database.
+- Study window: births 2010-2017, offspring follow-up through December 2023.
+- Main analytic frameworks:
+- Propensity score overlap-weighted cohort.
+- Sibling-matched cohort (discordant sibling comparison).
+
+## Cohort Flow
+
+- Initially identified: **3,012,992** mother-child pairs.
+- Included in main analysis: **2,777,119** pairs.
+- Exposed in full cohort: **507,845**.
+- Overlap-weighted cohort: **403,658 exposed vs 403,659 unexposed**.
+- Sibling comparison cohort: **157,069 exposed vs 164,669 unexposed**.
+- Mean follow-up: **10.3 years (SD 2.3)**.
+
+## Statistical Approach
+
+- Overlap weighting to balance measured confounders (target SMD < 0.1).
+- Cox proportional hazards models for adjusted HRs.
+- Subgroup analyses by medication class (PPI vs H2RA), trimester, and cumulative dose.
+- Sensitivity analyses:
+- Exposure redefined as >=2 prescription claims.
+- Child-screened cohort excluding major underlying health-risk conditions.
+
+## Main Results (Overlap-Weighted Cohort)
+
+- Any neuropsychiatric disorder: **aHR 1.13 (95% CI, 1.11-1.15)**.
+- ADHD: **1.14 (1.12-1.17)**.
+- ASD: **1.07 (1.03-1.11)**.
+- Intellectual disability: **1.13 (1.09-1.18)**.
+- Severe neuropsychiatric disorder: **1.16 (1.10-1.21)**.
+- Obsessive-compulsive disorder: **1.12 (1.03-1.21)**.
+
+## Absolute Risks (Overlap-Weighted Cohort)
+
+- ADHD: **4.85% vs 4.25%** (exposed vs unexposed).
+- ASD: **1.45% vs 1.33%**.
+- Intellectual disability: **1.25% vs 1.09%**.
+- Severe neuropsychiatric disorder: **0.94% vs 0.81%**.
+- Obsessive-compulsive disorder: **0.30% vs 0.27%**.
+- Absolute risk differences were small despite statistically significant HRs.
+
+## Key Result: Sibling-Control Analysis
+
+- Any neuropsychiatric disorder: **aHR 1.00 (95% CI, 0.97-1.03)**.
+- ADHD: **0.98 (0.95-1.02)**.
+- ASD: **0.98 (0.92-1.04)**.
+- Intellectual disability: **1.02 (0.95-1.09)**.
+- Severe neuropsychiatric disorder: **1.00 (0.93-1.08)**.
+- Obsessive-compulsive disorder: **0.95 (0.82-1.10)**.
+
+## Subgroup and Sensitivity Findings
+
+- H2RA only and PPI only both showed elevated HRs in overlap-weighted models.
+- Difference between PPI-only and H2RA-only was not statistically significant.
+- First-trimester exposure showed higher risk signals; second/third trimester mostly null.
+- Sensitivity analyses (>=2 claims and child-screened cohort) were directionally consistent with primary overlap-weighted findings.
+
+## Authors' Interpretation
+
+- Population-level models suggested modest association.
+- Sibling-controlled models did not support a causal association.
+- Most likely explanation: residual confounding by shared familial factors.
+
+## Strengths
+
+- Very large national cohort with long follow-up.
+- Multiple analytic strategies including sibling design.
+- Rich covariate adjustment and sensitivity analyses.
+- Clinically relevant outcomes spanning major neuropsychiatric disorders.
+
+## Limitations
+
+- Exposure misclassification: prescription claims do not guarantee medication intake.
+- Residual confounding remains possible (eg, maternal lifestyle, BMI, time-varying factors).
+- Genetic factors were not directly modeled.
+- Potential undercapture of OTC use (though limited by local prescribing context).
+- Live births only; cannot evaluate pregnancy loss/stillbirth pathways.
+- Generalizability outside Asian populations may be limited.
+
+## Journal Club Appraisal
+
+- This is a strong example where effect estimates shrink toward null with stronger confounding control.
+- Statistical significance in large datasets can coexist with clinically small absolute differences.
+- Sibling analyses improve causal inference but are not immune to bias.
+
+## Clinical Take-Home
+
+- Current evidence from this study does **not** support a clear causal link between prenatal acid suppression and child neuropsychiatric disorders.
+- If acid-suppressive therapy is clinically indicated in pregnancy, this study is broadly reassuring.
+- Shared decision-making should still consider indication strength and minimum effective exposure.
+
+## Discussion Prompts
+
+- Is sibling-control design the best quasi-experimental approach here?
+- Which unmeasured confounders could still bias sibling analyses?
+- Would this change counseling in obstetric clinics today?
+

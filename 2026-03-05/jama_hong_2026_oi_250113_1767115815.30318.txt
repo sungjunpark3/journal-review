@@ -1,0 +1,737 @@
+                  Research
+                  JAMA | OriginalInvestigation | WOMEN'SHEALTH
+                  PrenatalExposuretoAcid-SuppressiveMedications
+                  andRiskofNeuropsychiatricDisordersinChildren
+                  SeohyunHong;SoojiLee,MD;HyunjeeKim,MS;HyesuJo,MS;KyeongminLee,MS;YeonaJo,MS;TaeHyeonKim,MD;JaeyuPark,MS;
+                  JinseokLee,PhD;HoGeolWoo,MD,PhD;HayeonLee,PhD;DongKeonYon,MD,PhD
+                                                                                                             Relatedarticle
+                     IMPORTANCE Althoughacid-suppressivemedicationsarecommonlyprescribedduring               Supplementalcontent
+                     pregnancy,comprehensivestudiesontheirassociationwithneuropsychiatricdisorders
+                     in childrenarelimited.
+                     OBJECTIVEToinvestigatepotentialassociationsbetweenprenatalexposureto
+                     acid-suppressivemedication(histamine2[H ]receptorantagonistsandprotonpump
+                                                          2
+                     inhibitors[PPIs])andneuropsychiatricdisordersinchildren.
+                     DESIGN,SETTING,ANDPARTICIPANTSRetrospectivecohortstudyofmother-childpairsinthe
+                     SouthKoreanNationalHealthInsuranceServicedatabasewithbirthsfromJanuary2010
+                     throughDecember2017,withfollow-upofoffspringthroughDecember2023.Analyses
+                     wereconductedusingapropensityscore–basedoverlap-weightedcohortand
+                     asibling-matchedcohort.
+                     EXPOSUREPrenatalexposuretoatleast1prescriptionforaPPIorH receptorantagonist.
+                                                                              2
+                     MAINOUTCOMESANDMEASURESOffspringneuropsychiatricdisordersidentifiedvia
+                     InternationalStatisticalClassificationofDiseasesandRelatedHealthProblems,
+                     TenthRevisioncodes,includingattention-deficit/hyperactivitydisorder(ADHD),autism
+                     spectrumdisorders(ASD),intellectualdisability,severeneuropsychiatricdisorder,and
+                     obsessive-compulsivedisorder.
+                     RESULTSOf3012992mother-childpairsinitiallyidentified,2777119wereincluded,with
+                     507845pairsexposedtoprenatalacid-suppressivemedicationandwerefollowedupamean
+                     of10.3(SD,2.3)years.Intheoverlap-weightedcohort(403658mother-childpairsexposed
+                     and403659pairsunexposedtoanacid-suppressivemedication),respectiverisksamong
+                     offspringexposedvsnotexposedwere4.85%vs4.25%forADHD,1.45%vs1.33%forASD,
+                     1.25%vs1.09%forintellectualdisability,0.94%vs0.81%forsevereneuropsychiatric
+                     disorder,and0.30%vs0.27%forobsessive-compulsivedisorder.Intheoverlap-weighted
+                     cohort,theadjustedhazardratio(HR)followingprenatalacid-suppressivemedication
+                     exposurewas1.14(95%CI,1.12-1.17)forADHD,1.07(95%CI,1.03-1.11)forASD,1.13(95%CI,
+                     1.09-1.18) for intellectual disability, 1.16 (95% CI, 1.10-1.21) for severe neuropsychiatric disorder,
+                     and1.12(95%CI,1.03-1.21)forobsessive-compulsivedisorder.Sibling-controlanalysesthat
+                     included157069exposedand164669unexposedoffspringrevealednosignificant
+                     associationsbetweenprenatalexposureandoffspringoutcomes.TheadjustedHRforADHD
+                     was0.98(95%CI,0.95-1.02);forASD,0.98(95%CI,0.92-1.04);intellectualdisability,1.02
+                     (95%CI,0.95-1.09);severeneuropsychiatricdisorder,1.00(95%CI,0.93-1.08);or
+                     obsessive-compulsivedisorders,0.95(95%CI,0.82-1.10).
+                     CONCLUSIONSANDRELEVANCEExposuretoacid-suppressivemedicationduringpregnancy
+                     wasnotassociatedwithchildrensriskofADHD,severeneuropsychiatricdisorder,             AuthorAffiliations:Author
+                     obsessive-compulsivedisorder,intellectualdisability,orASDinsibling-controlanalyses.  affiliations are listed at the end of this
+                     Smallassociationswereobservedinoverlap-weightedmodels;thesemayreflect                article.
+                     confoundingbysharedfamilialfactors.                                                  CorrespondingAuthors:DongKeon
+                                                                                                          Yon,MD,PhD,Departmentof
+                                                                                                          Pediatrics,KyungHeeUniversity
+                                                                                                          CollegeofMedicine,23
+                                                                                                          Kyungheedae-ro,Dongdaemun-gu,
+                                                                                                          Seoul02447,SouthKorea(yonkkang
+                                                                                                          @gmail.com);HayeonLee,PhD,
+                                                                                                          DepartmentofBiomedical
+                                                                                                          Engineering,KyungHeeUniversity,
+                                                                                                          1732Deogyeong-daero,Giheung-gu,
+                     JAMA.doi:10.1001/jama.2025.23956                                                     Yongin17104,SouthKorea(wwhy28
+                     PublishedonlineJanuary7,2026.                                                        @khu.ac.kr).
+                                                                                                                               (Reprinted) E1
+              ©2026AmericanMedicalAssociation.All rights reserved, including those for text and data mining, AI training, and similar technologies.
+ Downloaded from jamanetwork.com by Konkuk University Hospital user on 01/14/2026
+                    Research OriginalInvestigation                                                Acid-SuppressiveMedicationandNeuropsychiatricDisorders
+                           cid-suppressivemedications,includingprotonpump
+                           inhibitors(PPIs)andhistamine2(H )receptorantago-
+                                                              2                        KeyPoints
+                    Anists,arecommonlyprescribedduringpregnancyto                      Question Isprenatalacid-suppressivemedicationexposure
+                                                                              1,2
+                    manageheartburn and gastroesophageal reflux disease.               associatedwithneuropsychiatricdisordersinoffspring?
+                    Recent studies have raised concerns regarding associations         Findings Inthiscohortstudyofmorethan2.7million
+                    betweenprenatalacid-suppressivemedicationexposureand               mother-childpairs,modelswithoutsiblingcontrolsidentified
+                    adverseoutcomesininfantsorchildren,includingincreased              modestlyincreasedrisksofneuropsychiatricdisordersinchildren
+                                         3                  4        5
+                    risksofpretermbirth, allergicdiseases, asthma, andmajor            associatedwithacid-suppressivemedicationuseduring
+                                              6
+                    congenital malformations. One study identified an associa-         pregnancy(adjustedhazardratio[HR],1.13).However,
+                    tion between prenatal PPI exposure and epilepsy in off-            sibling-matchedanalysesdidnotidentifyevidenceofincreased
+                    spring,raisingthequestionofwhetheracid-suppressivemedi-            risk of any disorder(adjustedHR,1.0),including
+                                                                       7               attention-deficit/hyperactivitydisorder,autismspectrum
+                    cationsmayaffectthedevelopingnervoussystem.                        disorders,intellectualdisability,severeneuropsychiatricdisorder,
+                        Theearly-life gut microbiome has been described as             andobsessive-compulsivedisorder.
+                    a critical factor in neurodevelopmental health based on
+                    the premise that microbial colonization during fetal and           Meaning Prenatalexposuretoacid-suppressivemedicationwas
+                    neonatal periods plays a fundamental role in shaping brain         notassociatedwithchildrensriskofneuropsychiatricdisordersin
+                    circuit maturation. Previous studies have suggested that           sibling-controlanalyses;associationsobservedinothermodels
+                    alteration in the gut microbiomecanadverselyimpactneuro-           mayreflectunmeasuredconfounding.
+                    development.8,9 Considering that acid-suppressive medica-
+                    tions may modify the composition and diversity of the gut
+                               10
+                    microbiota,   maternal use during pregnancy may influence
+                    neurodevelopmental processes in offspring.11 Furthermore,       to calculate gestational age in administrative claims data.
+                    a 2022 study suggested that early administration of acid-       Thedataset included deidentified information on patient
+                    suppressive medications before 2 years of age in preterm        demographics (eg, sex, age, region, insurance type, and
+                    infants could be associated with increased risks of neurode-    income level), clinical diagnoses (International Statistical
+                                            12                                      Classification of Diseases and Related Health Problems, Tenth
+                    velopmental disorders.     This raises concern that similar
+                    mechanismsmightoccurduringinuteroexposurebecause                Revision[ICD-10],diagnosisdate,medicalspecialty,andset-
+                    PPIs and H receptor antagonists readily cross the placental     ting), medical procedures (surgical and nonpharmacological
+                               2                                                    interventions), prescription records (drug codes and route
+                    barrier and maytherebyinfluencefetalneurodevelopment.
+                        The potential association between prenatal acid-            ofadministration),andhealthcareutilization(inpatientand
+                    suppressivemedicationsexposureandmajorneuropsychiat-            outpatient visits). Additionally, data on infant health
+                    ricdisordersremainsinsufficientlyinvestigated.Astheuseof        screening indicators (birth weight and preterm birth) were
+                    acid-suppressivemedicationsduringpregnancycontinuesto           available.
+                    increase,13assessmentoftheirassociationwithlong-termneu-            Thisstudywasapprovedbytheinstitutionalreviewboard
+                    rodevelopmentiswarranted.Thisstudyaimedtoinvestigate            ofKyungHeeUniversity(KHSIRB-24-511[EA])andtheKorean
+                    the association between maternal acid-suppressive medica-       NHIS(NHIS-2025-03-1-040). The requirement for informed
+                    tion use and the risk of neuropsychiatric disorders in chil-    consent was waived because only deidentified administra-
+                                                                                                        15
+                    dren,usinganationwide,population-based,large-scalebirth         tive data were used.  This study followed the Reporting of
+                    cohortinSouthKorea.                                             Studies ConductedUsingObservationalRoutinely-Collected
+                                                                                    HealthData(RECORD)statement(eTable1inSupplement1).
+                    Methods                                                         StudyPopulation
+                                                                                    Thestudypopulationcomprisedwomenaged13to58years
+                    DataSource                                                      whoselivebornneonatesweredeliveredfromJanuary1,2010,
+                    This study used the large-scale, nationwide mother-child        throughDecember31,2017.Thelook-backperiodforassess-
+                    linked cohort provided by the National Health Insurance         ingmaternalcharacteristicswas12monthspriortotheonset
+                    Service(NHIS)ofSouthKorea,fromJanuary1,2009,through             of pregnancy, and all offspring were followed up through
+                    December31,2023(totalmother-childpairs,3012992).The             December31,2023(Table1).
+                    NHISoperatesasingle-payer,mandatoryuniversalhealthin-               Participants with inadequate information on socioeco-
+                    surance system covering approximately 97% of the Korean         nomicstatus and mothers with at least 1 prescription for an
+                                14                                                  acid-suppressive medication within 30 days before preg-
+                    population. TheNHISdatabasecontainscomprehensivein-
+                    formationonsociodemographiccharacteristics,diagnoses,pro-       nancywereexcluded.
+                    cedures,prescriptions,healthexaminations,andvitalstatis-            Weconstructed a propensity score–based overlap-
+                    tics for all insured individuals.14                             weightedcohorttobalancecovariatesandmitigateconfound-
+                        Each mother-child linkage was established using a           ingbiasbetweengroupsdefinedbyacid-suppressivemedica-
+                                                                                                        16,17
+                    unique family insurance identification number. The start of     tion use (Figure 1).     In addition, we created a sibling-
+                    pregnancy was estimated using a validated algorithm based       comparison cohort to assess whether observed associations
+                    ondelivery dates and/or diagnoses related to preterm birth      changedaftercontrolforfamily-levelconfounders.18
+             E2     JAMA PublishedonlineJanuary 7,2026 (Reprinted)                                                                       jama.com
+               ©2026AmericanMedicalAssociation.All rights reserved, including those for text and data mining, AI training, and similar technologies.
+ Downloaded from jamanetwork.com by Konkuk University Hospital user on 01/14/2026
+                          Acid-SuppressiveMedicationandNeuropsychiatricDisorders                                                                              OriginalInvestigation Research
+                          Table.BaselineCharacteristicsofOffspringintheOverlap-WeightedCohortbyAcid-SuppressiveMedicationsExposure
+                                                             Unadjustedcohort(n = 2777119)a                              Overlap-weightedcohort(n = 807317)a
+                                                             Exposed             Unexposed                               Exposed              Unexposed
+                           Characteristic                    (n = 507845)        (n = 2269274)            SMDb           (n = 403658)         (n = 403659)            SMDb
+                           Covariates used in matching (mother)
+                           Age,y
+                              Mean(SD)                       31.7(4.3)           31.9(4.1)                0.048          31.7(3.8)            31.8(1.8)               0.010
+                              No.(%)
+                                <20                          1869(0.4)           5317(0.2)                               1324(0.3)            1324(0.3)
+                                20-24                        26210(5.2)          95748(4.2)                              19952(4.9)           19952(4.9)
+                                25-29                        115961(22.8)        487450(21.5)             0.073          91177(22.6)          91177(22.6)             <0.001
+                                30-34                        237792(46.8)        1105323(48.7)                           190806(47.3)         190806(47.3)
+                                ≥35                          126013(24.8)        575436(25.4)                            100399(24.9)         100400(24.9)
+                           Urbanresidence,No.(%)             230690(45.4)        1003013(44.2)            0.025          182403(45.2)         182404(45.2)            <0.001
+                           Householdincome,percentile,
+                           No.(%)
+                              Low(<25th)                     132591(26.1)        548680(24.2)                            103498(25.6)         103499(25.6)
+                              Lowermiddle(25th-49th)         120704(23.8)        539993(23.8)                            96042(23.8)          96042(23.8)
+                              Uppermiddle(50th-74th)         146919(28.9)        678873(29.9)             0.049          117736(29.2)         117736(29.2)            <0.001
+                              High(≥75th)                    107631(21.2)        501728(22.1)                            86382(21.4)          86382(21.4)
+                           Parity, No. (%)
+                              1                              314947(62.0)        1503248(66.2)                           253868(62.9)         253869(62.9)
+                              ≥2                             192898(38.0)        766026(33.8)             0.088          149790(37.1)         149790(37.1)            <0.001
+                           Prepregnancymaternal
+                           medicalconditions,
+                           No.(%)
+                              Gastrointestinal disorder      173947(34.3)        460564(20.3)             0.317          124626(30.9)         124627(30.9)            <0.001
+                              Mildmentalillnessc             82640(16.3)         238225(10.5)             0.170          59537(14.8)          59537(14.8)             <0.001
+                              Hypertension                   34394(6.8)          95719(4.2)               0.112          24452(6.1)           24452(6.1)              <0.001
+                                                   c
+                              Severementalillness            3663(0.7)           9440(0.4)                0.041          2545(0.6)            2546(0.6)               <0.001
+                              Dyslipidemia                   3503(0.7)           9171(0.4)                0.039          2429(0.6)            2429(0.6)               <0.001
+                              Diabetes                       2525(0.5)           8209(0.4)                0.021          1859(0.5)            1859(0.5)               <0.001
+                           Severematernalmorbidity,
+                           No.(%)d
+                              0                              460242(90.6)        2108338(92.9)                           368125(91.2)         368126(91.2)
+                              1                              45664(9)            155432(6.9)              0.074          34159(8.5)           34159(8.5)              <0.001
+                              ≥2                             1939(0.4)           5504(0.2)                               1374(0.3)            1374(0.3)
+                           Hospital admissions in a year
+                           beforepregnancy,No.(%)e
+                              0                              415693(81.9)        1913083(84.3)                           332318(82.3)         332319(82.3)
+                              1                              71652(14.1)         288774(12.7)             0.064          56100(13.9)          56100(13.9)             <0.001
+                              ≥2                             20500(4.0)          67417(3.0)                              15240(3.8)           15240(3.8)
+                           Outpatientcontactsinayear
+                           beforepregnancy,No.(%)e
+                                0                            19857(3.9)          170553(7.5)                             17742(4.4)           17742(4.4)
+                                1-4                          88452(17.4)         575002(25.3)             0.280          76253(18.9)          76253(18.9)             <0.001
+                                ≥5                           399536(78.7)        1523719(67.2)                           309663(76.7)         309663(76.7)
+                           Covariates not used in matching
+                           Mother
+                              Delivery type, No. (%)
+                                Vaginal                      301657(59.4)        1324206(58.4)                           241602(59.9)         231021(57.2)
+                                Cesarean                     206188(40.6)        945068(41.7)             0.021          162057(40.2)         172637(42.8)            0.053
+                           Infant
+                              Sex,No.(%)
+                                Male                         260255(51.3)        1166066(51.4)                           206895(51.3)         207332(51.4)
+                                Female                       247590(48.8)        1103208(48.6)            0.003          196763(48.7)         196327(48.6)            0.002
+                                                                                                                                                                                    (continued)
+                          jama.com                                                                                                     (Reprinted) JAMA PublishedonlineJanuary 7,2026                  E3
+                    ©2026AmericanMedicalAssociation.All rights reserved, including those for text and data mining, AI training, and similar technologies.
+  Downloaded from jamanetwork.com by Konkuk University Hospital user on 01/14/2026
+                        Research OriginalInvestigation                                                                Acid-SuppressiveMedicationandNeuropsychiatricDisorders
+                        Table.BaselineCharacteristicsofOffspringintheOverlap-WeightedCohortbyAcid-SuppressiveMedicationsExposure(continued)
+                                                       Unadjustedcohort(n = 2777119)a                         Overlap-weightedcohort(n = 807317)a
+                                                       Exposed            Unexposed                           Exposed           Unexposed
+                         Characteristic                (n = 507845)       (n = 2269274)         SMDb          (n = 403658)      (n = 403659)          SMDb
+                         Seasonofbirth,No.(%)
+                           Spring                      128049(25.2)       592918(26.1)                        102089(25.3)      104445(25.9)
+                           Summer                      127401(25.1)       554062(24.4)                        101105(25.1)      99153(24.6)
+                           Autumn                      126050(24.8)       557609(24.6)          0.028         99672(24.7)       101136(25.1)          0.028
+                           Winter                      126345(24.9)       564685(24.9)                        100792(25.0)      98924(24.5)
+                         At-risk newborn, No. (%)f
+                           Pretermbirth                25996(5.1)         75609(3.3)            0.089         20435(5.1)        13946(3.5)            0.080
+                           Lowbirthweight              19828(3.9)         61401(2.7)            0.067         15623(3.9)        11205(2.8)            0.061
+                        a Eachmother-childpairwasdefinedasauniquebirth;motherswithmultiple          dSeverematernalmorbiditywasdefinedaccordingtotheCentersforDisease
+                         deliveriescouldappearmorethanonce.                                           ControlandPreventionalgorithm,encompassing21life-threateningmaternal
+                        bStandardmeandifference(SMD)<0.1indicatesnosignificantimbalance.              complications(eg,acutekidneyfailure,eclampsia,sepsis,cardiacarrest)
+                        c Mildmentalillnesswasdefinedasanxiety-relatedandstress-relateddisorders      identifiedbyICD-10diagnosticandproceduralcodes.
+                         (InternationalStatisticalClassificationofDiseasesandRelatedHealth          eHospitaladmissionsandoutpatientcontactswithinayearbeforepregnancy,
+                         Problems,TenthRevision[ICD-10]codesF40-F48),alcoholordrugmisuse              includingmentalorbehavioralhealth–relatedencounters.
+                         (F10-F16,F18-F19),mooddisorderswithoutpsychoticsymptoms(F32-F34,           f Pretermbirthwasdefinedasdeliveryat36weeksorlessofgestation,andlow
+                         F38-F39,excludingF32.3andF33.3),eatingdisorders(F50),andpersonality          birthweightas2499gorlessatbirth.
+                         disorders(F60-F63,F68-F69).Severementalillnesswasdefinedas
+                         nonaffectiveoraffectivedisorderswithpsychoticfeatures,including
+                         nonaffectivepsychoticdisorders(F20-F24,F28-F29),andaffectivepsychotic
+                         disorders(F25,F30-F31,F32.3,F33.3).
+                        Figure1.StudyPopulationforEvaluationofPrenatalAcid-SuppressiveMedicationsandOffspringNeurodevelopment,BirthsinSouthKorea,
+                        2010-2017
+                                                                        3 012 992 Offspring born in South Korea to 2 398 549 mothers
+                                                                                  (January 1, 2009-December 31, 2023)
+                                                                                                         235 873 Offspring excluded
+                                                                                                                 224 821 Offspring not born between study dates
+                                                                                                                   6485 Missing socioeconomic status
+                                                                                                                   5124 Missing offspring birth date
+                                                                                                                   2845 Mothers had ≥1 prescription ≤30 d
+                                                                                                                         before pregnancy
+                                                                               2 777 119 Offspring born to 2 075 648 mothers
+                                                                                        included in the main analysis
+                            2 269 274 Mother-child pairs unexposed to          2 269 274 Mother-child pairs unexposed to                      Child screening
+                                       acid-suppressive medications                     acid-suppressive medications              1 995 477 Mother-child pairs unexposed to
+                              507 845 Mother-child pairs exposed to acid-       170 684 Mother-child pairs exposed to acid-                 acid-suppressive medications
+                                      suppressive medications (≥1 claim)                suppressive medications (≥2 claims)        441 250 Mother-child pairs exposed to acid-
+                                                                                                                                           suppressive medications (≥1 claim)
+                           Overlap-weighted         Sibling comparison                        2 Claims                                        Child screened
+                                cohort                   cohort                        overlap-weighted cohort                            overlap-weighted cohort
+                           403 659 Unexposed        164 669 Unexposed                     155 906 Unexposed                                  351 656 Unexposed
+                           403 658 Exposed          157 069 Exposed                       155 906 Exposed                                    351 656 Exposed
+                        Eachmother-childpairwasdefinedasauniquebirth;motherswithmultipledeliveriescouldappearmorethanonce.
+                        Exposure                                                                    subgroups based on medication type (PPI or H receptor an-
+                                                                                                                                                             2
+                        Maternal exposure to acid-suppressive medications was de-                   tagonist) and timing of exposure (first, second, or third
+                        finedashavingreceived1ormoreprescriptionsforPPIsorH2                        trimester).19Thecontrolgroupcomprisedwomenwithnoacid-
+                        receptor antagonists during pregnancy. The acid-suppressive                 suppressivemedicationprescriptionsfrom30dayspriortothe
+                        medication exposure group was further classified into                       start of pregnancythroughdelivery.
+               E4       JAMA PublishedonlineJanuary 7,2026 (Reprinted)                                                                                              jama.com
+                  ©2026AmericanMedicalAssociation.All rights reserved, including those for text and data mining, AI training, and similar technologies.
+ Downloaded from jamanetwork.com by Konkuk University Hospital user on 01/14/2026
+                     Acid-SuppressiveMedicationandNeuropsychiatricDisorders                                                 OriginalInvestigation Research
+                     Outcome                                                           SensitivityAnalysis
+                     OutcomeswereidentifiedviaICD-10codes(eTable2inSup-                Asensitivityanalysisinwhichexposuretothemedicationwas
+                                19
+                     plement 1)   and included severe neuropsychiatric disorders       redefinedasatleast2claimswasconductedtoreducepoten-
+                     (schizophreniaspectrumdisordersandmooddisorderswithpsy-           tialmisclassification.Additionally,achild-screeningsensitiv-
+                     chotic features), obsessive-compulsive disorders, attention-      ityanalysiswasperformedtoevaluatewhethertheeffectsof
+                     deficit/hyperactivitydisorder(ADHD),autismspectrumdisor-          maternal exposure persisted after excluding children with
+                     ders(ASD),andintellectualdisability.Onsetwasidentifiedasthe       underlying health risks. In this analysis, children diagnosed
+                     first postnataldiagnosis.                                         with immunemechanismdisorders, cystic fibrosis, chronic
+                                                                                       kidneydisease,β-thalassemiaorsicklecelldisorders,malig-
+                     Covariates                                                        nancy,teratogenicorgeneticsyndromes,microdeletions,chro-
+                     Covariates included (1) maternal sociodemographic charac-         mosomalabnormalities, and malformation syndromes were
+                     teristics including maternal age at delivery, region of resi-     excluded(eTable4inSupplement1).
+                     dence(ruralorurban),householdincomelevel(byquartile),
+                     andparity(1or ≥2children);(2)maternalclinicalcharacteris-
+                     tics, encompassing mental illness status (none, common, or        Results
+                     severe);prepregnancymaternalmedicalconditionssuchashy-
+                     pertension, diabetes, dyslipidemia, and gastrointestinal dis-     StudyCohort
+                     orders; severity of mental illness (mild or severe); the num-     Initially,3012992mother-childpairswereidentifiedbasedon
+                     berofseverematernalmorbidities(0,1,or≥2);andhealthcare            birthsfromJanuary1,2009,throughDecember31,2023.Af-
+                     utilizationintheyearbeforepregnancy,includinghospitalad-          terexcludingmotherswithmissingdataandthosewithapre-
+                     missions (0, 1, or ≥2) and outpatient visits (0, 1-4, or ≥5);     scription for acid-suppressive medication within 30 days of
+                     (3) delivery-related factors, including mode of delivery and      pregnancy, 2777119 children born from January 1, 2010,
+                     seasonofbirth;and(4)infantcharacteristicsincludingsex,pre-        throughDecember31,2017,and2075648pairedmotherswere
+                     termbirth,andlowbirthweight.                                      included; mean follow-up was 10.3 (SD, 2.3) years. Among
+                                                                                       them, 2269274 pairs were unexposed to acid-suppressive
+                     StatisticalAnalysis                                               medications whereas 507845 pairs were exposed. After ap-
+                     Apropensity score–based overlap-weighting algorithm was           plyingpropensityscore–basedoverlapweighting,thecohort
+                     applied to adjust for measured baseline confounders, identi-      consistedof807317pairs,with403658pairsintheexposed
+                     fied through hypothesized causal relationships using a            group(Figure1).Themeanmaternalagewas31.7(SD,3.8)years
+                     directed acyclic graph, when comparing the acid-suppressive       in the exposed group and 31.8 (SD, 1.8) years in the unex-
+                     medication exposure group with the control group (eFigure         posedgroup.AllbaselinecovariateshadSMDslessthan0.1,
+                     in Supplement 2). Covariate balance between the 2 groups          indicatingadequatebalance(Table).
+                     wasassessed using standardized mean differences (SMDs),
+                     withanSMD<0.1indicatingnosignificantimbalance.                    PrenatalExposureandRiskofNeuropsychiatricDisorders
+                         Intheoverlap-weightedcohort,Coxproportionalhazards            In overlap-weighted analyses, prenatal exposure to acid-
+                     regression models were used to estimate adjusted hazard ra-       suppressive medications was associated with a modestly
+                     tios(HRs)and95%CIsfortheincidenceriskofneuropsychiat-             increased incidence of any neuropsychiatric disorder with
+                     ric disorders in offspring following prenatal exposure to acid-   an adjusted HR of 1.13 (95% CI, 1.11-1.15) (Figure 2). ADHD
+                                              20Subgroupanalyseswereconducted          wasthemostfrequentoutcome,withanadjustedHRof1.14
+                     suppressivemedications.
+                     according to the type of acid-suppressive medication expo-        (95% CI, 1.12-1.17). Elevated risks were also observed for
+                     sure(H receptorantagonistonlyandPPIonly)andexposedtri-            severe neuropsychiatric disorder. The adjusted HR for neuro-
+                            2
+                     mester(first, second, and third trimester). Differences in out-   psychiatric disorder was 1.16 (95% CI, 1.10-1.21); for
+                     comesbetweendrugclassesandtrimesterswereassessedusing             obsessive-compulsive disorder, 1.12 (95% CI, 1.03-1.21); for
+                     alikelihoodratiotest.Toexaminedose-responseassociations,          ASD, 1.07 (95% CI, 1.03-1.11); and for intellectual disability,
+                     wecalculated the total patient-days receiving therapy by di-      1.13 (95%CI,1.09-1.18). Pvaluesforalloutcomesweresignifi-
+                     vidingthestandardunitsofeachdrugbyitsdefineddailydose.            cantafteradjustmentformultipletesting(eTable5inSupple-
+                     PvalueswereadjustedformultipletestingusingtheBonferroni-          ment1). Sensitivity analyses using an exposure definition
+                     Holmmethodinthemainanalyses(α=.05).Analyseswerecon-               requiring at least 2 claims and a child-screened overlap-
+                     ductedusingSASversion9.4(SASInstituteInc).                        weighted cohort were consistent with the primary findings
+                                                                                       (eTables 6-9 in Supplement 1). The child-screened cohort
+                     Sibling-MatchedAnalyses                                           showedincreases across all neuropsychiatric disorders,
+                     Inthesiblingcomparisonanalysis,stratifiedCoxproportional          whereas the 2 or more claims definitions showed increased
+                     hazards regression models were used to account for within-        risk for all except obsessive-compulsive disorder.
+                     familyclustering,witheachmothertreatedasaseparatestra-
+                     tum(eTable3inSupplement1).Formotherswith3ormorechil-              SubgroupAnalyses
+                     dren,morethan1childpermothercouldbeincludedinthesame              Subgroup analyses by medication type, cumulative defined
+                     group.CovariateswithaSMDbetweenthe2groupsexceeding                dailydose,andtrimesterofexposurearepresentedinFigure3
+                     0.1wereadjustedforintheestimationofHRs.                           (eTables10and11inSupplement1).Prenatalexposuretoeither
+                     jama.com                                                                             (Reprinted) JAMA PublishedonlineJanuary 7,2026    E5
+                ©2026AmericanMedicalAssociation.All rights reserved, including those for text and data mining, AI training, and similar technologies.
+ Downloaded from jamanetwork.com by Konkuk University Hospital user on 01/14/2026
+                      Research OriginalInvestigation                                                       Acid-SuppressiveMedicationandNeuropsychiatricDisorders
+                                                                                                      H2 receptor antagonists only (adjusted HR, 1.12
+                                                                        1.20       of                 [95%CI, 1.10-1.14]) or PPIs only (adjusted HR, 1.20
+                                                                            b        eight s,
+                                         ely in                         1.10       seasonw            [95% CI, 1.13-1.26]) was associated with an in-
+                                           xposed                                    th    eature     creased risk of neuropsychiatric disorders. Differ-
+                                       Morelikegroup                                 bir   f
+                                                                        1.0        emale),w           encesbetweenthePPI-onlyexposureandH2recep-
+                                                                             atio (95% CI)flo
+                                       Moreely in                         Adjusted hazardr chotic     tor antagonist–only exposure were not statistically
+                                         likxposedgroup                            or      y
+                                                                                     and   ps         significant. For H receptor antagonist–only expo-
+                                           une                                     (maleno]with                          2
+                                                                                   x or               sures,risksgenerallyincreasedwithhighercumula-
+                                           b                                       e s
+                                                                                   s e                tivedefineddailydose.ForPPI-onlyexposures,ob-
+                                           atio                                    s [y
+                                                                                   antth  disorders  sessive-compulsive disorder and intellectual
+                                                                                   infbir  e          disabilitywereassociatedonlywiththehighestter-
+                                         Adjustedhazard r(95% CI)1.13 (1.11-1.15)1.14 (1.12-1.17)1.07 (1.03-1.11)1.13 (1.09-1.18)1.16 (1.10-1.21)1.12 (1.03-1.21)y),tiv
+                                                                                   erterm  ec disorders.tileofcumulativedefineddailydose,whereasADHD
+                                                                                           aff
+                                                                                   deliv(prer         andASDwereassociatedacrossallexposurelevels.
+                                           b                                               o
+                                                                                           e  chotic      Bytimingofthefirst exposure compared with
+                                                                                           tivy
+                                                                                              s
+                                                                                   sarean  ec p       unexposedoffspring, initiation in the first trimester
+                                                                                   cenewborn  e
+                                         Adjusted riskdifference(95% CI), %0.46 (0.47-0.65)0.45 (0.37-0.52)0.07 (0.03-0.11)0.12 (0.08-0.16)0.10 (0.07-0.13)0.03 (0.01-0.05)ortivwasconsistently associated with higher risk of neu-
+                                                                                     -risk nonaffec   ropsychiatric disorders (adjusted HR, 1.14 [95% CI,
+                                                                                   ginalat as aff
+                                       ate, perears                                a and      and     1.12-1.17]). Specifically, elevated risks were reported
+                                 659)Incidencer1000person-y5.804.481.401.140.840.28(v      ined
+                                                                                                      for severe neuropsychiatric disorders (adjusted HR,
+                                                                                   ype     def
+                                                                                   t       s
+                                                                                   y       a          1.18 [95% CI, 1.13-1.24]), obsessive-compulsive dis-
+                                                                                   erwinter),wdisorders
+                                 xposed (403 ents                                    or               orders(adjustedHR,1.14[95%CI,1.05-1.24]),ADHD
+                                           . (%)v077 (5.47)165 (4.25)
+                                                                                   deliv
+                                 Une       Noof e22 17   5381 (1.33)4393 (1.09)3267 (0.81)1094 (0.27)r(adjusted HR, 1.16 [95% CI, 1.14-1.19]), ASD (ad-
+                                                                                   o          chotic
+                              t                                                    f       disordery
+                                                                                              s       justed HR, 1.06 [95% CI, 1.02-1.10], and intellectual
+                                                                                   tedautumn, p
+                                                                                     ,        e       disability (adjusted HR, 1.13 [95% CI, 1.09-1.18]). In
+                                       ate, perears                                        chiatrictiv
+                                    Incidencer1000person-y6.605.111.521.310.980.32 adjus   y  ec      contrast, being first exposed during the second or
+                                 658)                                              s
+                                                                                   a summer
+                              eighted cohor                                        w g,               third trimester was generally not associated with
+                                                                                           neuropsnonaff
+                                             ents                                       no]). g       increased risks, although third trimester exposure
+                              erlap-w      . (%)v074 (6.21)                        model(sprinorere
+                                 xposed (403                                       e th s  v          wasassociated with ASD and intellectual disability.
+                              Ov E         Noof e25 19 558 (4.85)5855 (1.45)5058 (1.25)3786 (0.94)1227 (0.30)he
+                         Disorder                                                 bT bir[ycSe includinAdditional analyses stratified by maternal age,
+                                           a                                            s  ts         region of residence, household income, prepreg-
+                                                                                   al), te            nancy maternal medical conditions, parity, and
+                         chiatric          atio                                    rur
+                         y                                                         ormedicaldiabecontacsevere maternal morbidity score are presented in
+                                                                                             emale),
+                                         Adjustedhazard r(95% CI)1.14 (1.12-1.15)1.14 (1.13-1.16)1.09 (1.06-1.12)1.15 (1.12-1.18)1.15 (1.12-1.19)1.12 (1.06-1.18)andfeight).eTable12inSupplement1.
+                         Neurops                                                   (urbanmaternalorw
+                         s                                                          y     outpatient(maleth
+                                           a                                       sidence 2),x bir   Sibling-MatchedAnalysis
+                                                                                            e  w
+                                                                                   re   dyslipidemia,sloIn the sibling comparison cohort comprising 151737
+                                                                                           ors
+                                                                                   of      ,
+                         Children                                                       ss,1
+                                                                                           , antand  discordant sibling pairs, 164669 mother-child pairs
+                                         Adjusted riskdifference(95% CI), %0.77 (0.71-0.84)0.65 (0.59-0.70)0.08 (0.05-0.11)0.16 (0.13-0.19)0.14 (0.11-0.16)0.04 (0.03-0.06)0
+                                                                                     prepregnanc(infth
+                         and                                                       regionillneyy),bir were unexposed to acid-suppressive medications,
+                         Use     274)                                                        er       whereas 157069 pairs were exposed (eTable 13
+                                       ate, perears                                ears),mental term
+                                    Incidencer1000person-y5.534.231.361.100.800.27 y children),pregnancdelivin Supplement 1). In the sibling-matched pre-
+                                 269                                                 2
+                                                                                   35   ere     (pre
+                                                                                       v  ore        natal exposure analyses, prenatal exposure to acid-
+                                                                                    r  se
+                                                                                   r o
+                                                                                   o 1     befsarean
+                                                                                   , (                suppressive medications was not significantly
+                         Medication          ents982 (5.29)                        34y     earce
+                         e       xposed (2 . (%)v   492 (4.09)923 (1.32)095 (1.06)618 (0.78)yor
+                                                                                   30-parittension,anewbornassociated with any neuropsychiatric outcome
+                         ssiv    Une       Noof e11992   29 24  17 6022 (0.27)     ,       inginal-risk(Figure 4). The incidence rate for any neuropsychi-
+                                                                                   29   yper a  at
+                                                                                   25-high),h(v       atric disorder was 5.72 and 5.77 per 1000 person-
+                                                                                   , r  ss,
+                              t              ears                                  4 o          and
+                         Suppre        ate, per                                    2 ,       ype
+                                    Incidencer1000person-y6.715.201.531.340.990.32 -    illnet        years in exposed and unexposed siblings, respec-
+                                 845)                                              0       admissionsy
+                         cid-                                                      2
+                         A                                                         ,         er       tively, corresponding to an adjusted HR of 1.00
+                                                                                   0 middle     winter),
+                                                                                   (<2  mentalhospitaldelivor(95%CI,0.97-1.03).Nosignificantassociationswere
+                                             ents                                  e
+                                             v                                     g upper   5),
+                                           . (%)942 (6.29)960 (4.91)               a       2),        found for individual disorders, including severe
+                                 xposed (507                                         ,  mild 
+                         PrenatalUnadjusted cohorENoof e31247405 (1.46)6468 (1.27)4831 (0.95)1559 (0.31),r
+                                                                                             o        neuropsychiatric disorder with an adjusted HR of
+                                                                                           or,  autumn,
+                                                               c                           ,    ,
+                                                                                     middle1
+                         een                                                         r     , 1-4      1.00 (95% CI, 0.93-1.08); obsessive-compulsive dis-
+                                                    y                              maternal0 ,
+                         tw                                                        r e  disorder(0
+                                                                                   o w     y (
+                         Be                                                        f lo      y        order,0.95(95%CI,0.82-1.10);ADHD,0.98(95%CI,
+                                                    activit                          ,  tinal   summer
+                                                                   e disorder      tedw s       g,    0.95-1.02); ASD, 0.98 (95% CI, 0.92-1.04); and intel-
+                                                            y                        (lo   morbidit   lectual disability, 1.02 (95% CI, 0.95-1.09; eTable 14
+                                                                chiatric disorder  adjustrointepregnanc(sprin
+                                                                                   s
+                                                chiatric disorder                  a            th    in Supplement1).Whenstratifiedbymaternalmen-
+                                                                                   w incomegasore
+                         Association         chiatric disorder                          (  maternalbefbirtal health history, no association was observed in
+                         2.                                        e-compulsiv                  of
+                                                                                   model   ereear     either mothers with a history of mental health con-
+                                                                ere neuropsy       e       v y
+                         igure                      ttention-deficit/hyperv        h       sea
+                         F                   NeuropsyAny neuropsyAdisorderAutism spectrum disorderIntellectual disabilitSeObsessivaThouseholdconditions),inseasonditions (adjusted HR, 1.07 [95% CI, 0.79-1.46]) or
+              E6      JAMA PublishedonlineJanuary 7,2026 (Reprinted)                                                                                  jama.com
+                 ©2026AmericanMedicalAssociation.All rights reserved, including those for text and data mining, AI training, and similar technologies.
+ Downloaded from jamanetwork.com by Konkuk University Hospital user on 01/14/2026
+                            Acid-SuppressiveMedicationandNeuropsychiatricDisorders                                                                                      OriginalInvestigation Research
+                            Figure3.AssociationBetweenPrenatalAcid-SuppressiveMedicationUseandChildrensNeuropsychiatricDisorderbyTypeandTrimester
+                                                            Unadjusted cohort (n = 2 777 119)                      Overlap-weighted cohort (n = 807 317)
+                                                                                     Incidence                                              Incidence
+                                                                                     rate, per                                              rate, per
+                                                                                     1000                                                   1000                              More likely   More likely
+                                                                                     person-    Adjusted hazard                             person-    Adjusted hazard     in unexposed     in exposed
+                            Exposure                    No. of events/total (%)      years       ratio (95% CI)a   No. of events/total (%)  years       ratio (95% CI)b            group     group
+                            Any neuropsychiatric disorder
+                              Medication type
+                                H2RA only               28 520/456 679 (6.25)        6.59       1.12 (1.11-1.14) 22 475/364 186 (6.17) 6.49            1.12 (1.10-1.14)
+                                PPI only                1825/29 378 (6.21)           7.39       1.28 (1.23-1.34) 1417/23 059 (6.14)         7.29       1.20 (1.13-1.26)
+                                Unexposed               119 982/2 269 274 (5.29) 5.53           1 [Reference]      22 077/403 659 (5.47) 5.80          1 [Reference]
+                              Trimester
+                                First                   29 096/461 120 (6.31)        6.84       1.16 (1.14-1.17) 22 672/364 042 (6.23) 6.73            1.14 (1.12-1.17)
+                                Second                  832/13 568 (6.13)            5.65       1.00 (0.94-1.08) 697/11 448 (6.09)          5.61       1.01 (0.94-1.09)
+                                Third                   2014/33 067 (6.09)           5.60       1.01 (0.96-1.05) 1704/28 168 (6.05)         5.56       1.02 (0.97-1.08)
+                                Unexposed               119 982/2 269 274 (5.29) 5.53           1 [Reference]      22 077/403 659 (5.47) 5.80          1 [Reference]
+                            Attention-deficit/hyperactivity disorder
+                              Medication type
+                                H2RA only               22 319/456 679 (4.89)        5.11       1.12 (1.11-1.14) 17 555/364 186 (4.82) 5.03            1.13 (1.10-1.15)
+                                PPI only                1402/29 378 (4.77)           5.63       1.31 (1.24-1.38) 1088/23 059 (4.72)         5.55       1.22 (1.15-1.30)
+                                Unexposed               92 492/2 269 274 (4.08)      4.23       1 [Reference]      17 165/403 659 (4.25) 4.48          1 [Reference]
+                              Trimester
+                                First                   22 818/461 120 (4.95)        5.25       1.13 (1.07-1.20) 17 755/364 042 (4.88) 5.23            1.16 (1.14-1.19)
+                                Second                  627/13 568 (4.62)            4.16       1.15 (0.88-1.50) 524/11 448 (4.58)          4.17       0.98 (0.90-1.07)
+                                Third                   1515/33 067 (4.58)           4.10       0.94 (0.77-1.13) 1280/28 168 (4.54)         4.14       0.99 (0.93-1.05)
+                                Unexposed               92 492/2 269 274 (4.08)      4.23       1 [Reference]      17 165/403 659 (4.25) 4.48          1 [Reference]
+                            Autism spectrum disorder
+                              Medication type
+                                H2RA only               6458/456 679 (1.42)          1.47       1.06 (1.03-1.09) 5150/364 186 (1.41)        1.47       1.05 (1.01-1.09)
+                                PPI only                517/29 378 (1.76)            2.07       1.34 (1.23-1.46) 403/23 059 (1.75)          2.05       1.20 (1.08-1.32)
+                                Unexposed               29 923/2 269 274 (1.32)      1.36       1 [Reference]      5381/403 659 (1.33)      1.40       1 [Reference]
+                              Trimester
+                                First                   6728/461 120 (1.46)          1.57       1.16 (1.15-1.18) 5279/364 042 (1.45)        1.55       1.06 (1.02-1.10)
+                                Second                  176/13 568 (1.30)            1.18       0.97 (0.89-1.04) 149/11 448 (1.31)          1.18       1.01 (0.86-1.19)
+                                Third                   501/33 067 (1.52)            1.38       0.97 (0.92-1.02) 427/28 168 (1.51)          1.37       1.20 (1.08-1.32)
+                                Unexposed               29 923/2 269 274 (1.32)      1.36       1 [Reference]      5381/403 659 (1.33)      1.40       1 [Reference]
+                            Intellectual disability
+                              Medication type
+                                H2RA only               5770/456 679 (1.26)          1.31       1.14 (1.10-1.17) 4531/364 186 (1.24)        1.29       1.12 (1.08-1.17)
+                                PPI only                366/29 378 (1.52)            1.46       1.24 (1.11-1.37) 282/23 059 (1.22)          1.43       1.15 (1.02-1.30)
+                                Unexposed               24 095/2 269 274 (1.06)      1.10       1 [Reference]      4393/403 659 (1.09)      1.14       1 [Reference]
+                              Trimester
+                                First                   5833/461 120 (1.26)          1.35       1.09 (1.06-1.12) 4521/364 042 (1.24)        1.32       1.13 (1.09-1.18)
+                                Second                  185/13 568 (1.36)            1.24       0.94 (0.81-1.09) 155/11 448 (1.35)          1.22       1.11 (0.95-1.31)
+                                Third                   450/33 067 (1.36)            1.23       1.08 (0.99-1.18) 382/28 168 (1.35)          1.22       1.14 (1.03-1.27)
+                                Unexposed               24 095/2 269 274 (1.06)      1.10       1 [Reference]      4393/403 659 (1.09)      1.14       1 [Reference]
+                                                             c
+                            Severe neuropsychiatric disorder
+                              Medication type
+                                H2RA only               4353/456 679 (0.95)          0.99       1.14 (1.10-1.18) 3423/364 186 (0.94)        0.97       1.14 (1.09-1.19)
+                                PPI only                238/29 378 (0.81)            0.95       1.25 (1.10-1.42) 186/23 059 (0.81)          0.94       1.20 (1.03-1.39)
+                                Unexposed               17 618/2 269 274 (0.78)      0.80       1 [Reference]      3267/403 659 (0.81)      0.84       1 [Reference]
+                              Trimester
+                                First                   4359/461 120 (0.95)          1.02       1.16 (1.14-1.17) 3388/364 042 (0.93)        0.99       1.18 (1.13-1.24)
+                                Second                  144/13 568 (1.06)            0.98       1.00 (0.94-1.08) 121/11 448 (1.05)          0.95       1.01 (0.84-1.22)
+                                Third                   328/33 067 (0.99)            0.91       1.01 (0.96-1.05) 277/28 168 (0.98)          0.89       0.96 (0.85-1.09)
+                                Unexposed               17 618/2 269 274 (0.78)      0.80       1 [Reference]      3267/403 659 (0.81)      0.84       1 [Reference]
+                            Obsessive-compulsive disorder
+                              Medication type
+                                H2RA only               1381/456 679 (0.30)          0.31       1.08 (1.02-1.15) 1091/364 186 (0.30)        0.31       1.08 (0.99-1.17)
+                                PPI only                85/29 378 (0.29)             0.34       1.38 (1.12-1.72) 67/23 059 (0.29)           0.34       1.36 (1.06-1.74)
+                                Unexposed               6022/2 269 274 (0.27)        0.27       1 [Reference]      1094/403 659 (0.27)      0.28       1 [Reference]
+                              Trimester
+                                First                   1398/461 120 (0.30)          0.32       1.17 (1.13-1.21) 1091/364 042 (0.3)         0.32       1.14 (1.05-1.24)
+                                Second                  54/13 568 (0.40)             0.36       1.04 (0.88-1.23) 45/11 448 (0.39)           0.35       1.08 (0.80-1.46)
+                                Third                   107/33 067 (0.32)            0.29       0.99 (0.89-1.11) 90/28 168 (0.32)           0.29       0.89 (0.72-1.10)
+                                Unexposed               6022/2 269 274 (0.27)        0.27       1 [Reference]      1094/403 659 (0.27)      0.28       1 [Reference]
+                                                                                                                                                                        0.5              1        1.5     2
+                                                                                                                                                                                                         b
+                                                                                                                                                                          Adjusted hazard ratio (95% CI)
+                            aFortheadjustedconditions,seefootnoteaintheFigure2legend.                                 cForthedefinitionofsevereneuropsychiatricdisorders,seefootnotecinthe
+                            b                                                                                         Figure2legend.
+                             Fortheadjustedconditions,seefootnotebintheFigure2legend.
+                                                                                                                      H2RAindicateshistamine2receptorantagonists;PPI,protonpumpinhibitor.
+                            jama.com                                                                                                           (Reprinted) JAMA PublishedonlineJanuary 7,2026                     E7
+                     ©2026AmericanMedicalAssociation.All rights reserved, including those for text and data mining, AI training, and similar technologies.
+  Downloaded from jamanetwork.com by Konkuk University Hospital user on 01/14/2026
+                      Research OriginalInvestigation                                                       Acid-SuppressiveMedicationandNeuropsychiatricDisorders
+                                                                                            those without (adjusted HR, 1.00 [95% CI, 0.97-1.03];
+                                                                  1.10                      eTable15inSupplement1).
+                                                                    a     s,
+                                ely inxposed
+                              Morelikegroup                       1       eature
+                                                                          f
+                              Moreely inxposedgroup                 atio (95% CI)chotic     Discussion
+                                lik                                       y
+                                   une                                    ps                Prenatalacid-suppressivemedicationexposureshowednoas-
+                                                                  0.9     with              sociationwithneuropsychiatricdisordersinsiblinganalyses
+                                                                    Adjusted hazard r       designed to control unmeasured familial factors, suggesting
+                                                                          disorders         that associations observed in other analyses reflect residual
+                                                                  0.8     e                 confounding.Althoughtheinitialpopulation-basedanalyses
+                                                                          tiv
+                                                                          ec disorders.     of more than 2.7 million mother-child pairs suggested small
+                                                                          aff
+                                                                          r                 increasesinmostneuropsychiatricdisorders,theabsoluteex-
+                                                                          o
+                                                                          e  chotic         cessriskswereextremelylow.PPIandH receptorantagonist
+                                                                          tivy                                                         2
+                                                                          ec s
+                                     atio (95% CI)                           p              exposuresshowedsimilarriskprofileswithoutstatisticallysig-
+                                   Hazard r1.00 (0.97 to 1.03)0.98 (0.95 to 1.02)0.98 (0.92 to 1.04)1.02 (0.95 to 1.09)1.00 (0.93 to 1.08)0.95 (0.82 to 1.10)e
+                                                                          nonafftiv         nificant differences betweenmedicationclasses.
+                                                                             ec                 Thisstudysfindingsthatprenatalacid-suppressivemedi-
+                                                                          as aff
+                                                                          inedand           cationexposureshowednosignificantassociationwithchil-
+                               a                                          def               drens neurodevelopment in real-world human populations
+                                                                          s
+                                                                          a                 standincontrasttostudiesinanimalmodelsthathaveshown
+                               AdjustedRisk difference(95% CI)–0.01 (–0.16 to 0.14)–0.12 (–0.25 to 0.02)0.00 (–0.07 to 0.08)0.02 (–0.05 to 0.09)0.01 (–0.05 to 0.07)–0.08 (–0.25 to 0.09)wdisorders
+                                                                                            that alterations in the maternal gut microbiome may impair
+                                                                          disorderchotic    neurodevelopmentandaxongrowth.11,21-25Thecurrentstudys
+                                                                             y
+                                                                             s              results also differ from studies of postnatal acid-suppressive
+                         t                                                   p
+                                                                             e              medications,whichhavereportedelevatedneuropsychiatric
+                                                                          chiatrictiv
+                                                                          y  ec                   12,26
+                         Cohor                                                              risks.
+                                     atio (95% CI)1.02 (0.99 to 1.05)1.00 (0.97 to 1.03)1.06 (0.99 to 1.13)0.97 (0.89 to 1.04)0.94 (0.82 to 1.08)
+                                   Hazardr       0.99 (0.93 to 1.06)         nonaff             Thisstudyssiblinganalysisrevealednosignificantasso-
+                                                                          neuropsg          ciations between either PPIs or H receptor antagonists and
+                                                                          ere                                                    2
+                                                                          v                 child neuropsychiatric disorders, suggesting these relation-
+                         Comparison                                      bSe includin
+                         g                                                                  ships mayreflect confoundingratherthancausation.Toour
+                         Siblin                                                             knowledge, no direct causal pathway linking prenatal acid-
+                         a                                                                  suppressivemedicationstooffspringneuropsychiatricdisor-
+                         in    CrudeRisk difference(95% CI)–0.29 (–0.45 to 0.14)–0.35 (–0.49 to –0.21)–0.04 (–0.11 to 0.04)0.01 (–0.07 to 0.08)–0.08 (–0.14 to –0.02)–0.05 (–0.08 to –0.02)dershasbeenestablishedinhumans.
+                                     ears                                 children),mental
+                         xposure   ate, per                               2  ere            Limitations
+                         E                                                  v
+                                                                          r  se
+                               669)                                       o                 Thisstudyhasseverallimitations.First,exposuremisclassi-
+                                                                          1
+                                                                          (  and
+                                                                          y                 fication may have occurred because prescription records do
+                               t (164Incidence r1000 person-y5.774.621.191.080.870.27paritss,notguaranteemedicationadherence.Althoughasensitivity
+                         Medication                                          illne
+                         e                                                ears),            analysis defining exposure as more than 2 prescriptions
+                         ssiv                                             y                 wasconductedtoapproximate consistent use, pharmacy-
+                               xposed cohorents                           35 mental
+                                   . (%)v                                                  dispensingdatawereunavailableandmedicationintakecould
+                               Une Noof e9158 (5.56)7388 (4.49)1910 (1.16)1747 (1.06)1402 (0.85)439 (0.27)r
+                         Suppre                                           o  mild5).        not be directly confirmed. Second, as in any observational
+                                                                          ,  , 
+                         cid-                                             34   ,            study, residual confounding may have persisted despite rig-
+                         A           ears                                 30-  1-4
+                                                                          ,    ,            orousadjustment.Thefull-cohortmodelissusceptibletoun-
+                                                                             disorder0
+                                   ate, per                               29   (
+                                                                          25-tinaly         measuredconfounders.Althoughsiblinganalysesmaymiti-
+                               069)                                       ,  s
+                         Prenatal                                         4                 gatesharedfamilialfactors,siblinganalysesarevulnerableto
+                                                                          2
+                                                                          -
+                         ter       Incidence r1000 person-y5.724.461.201.140.820.230
+                         f     t (157                                     2  trointepregnanctime-varying confounders. Furthermore, although multiple
+                         A                                                ,
+                                                                          0  gasore         covariateswereincluded,datawerelimitedonprepregnancy
+                                                                          (<2( bef
+                                                                          e                 bodymassindexandmaternallifestyle,whicharepotential
+                                     ents                                 g
+                         Children  . (%)v                                 a    ear
+                               xposed cohor                                    y            risk factors for gastroesophageal reflux disease and subse-
+                         in    E   Noof e8274 (5.27)6498 (4.14)1766 (1.12)1675 (1.07)1214 (0.77)341 (0.22)a
+                                                                             conditionsin   quentacid-suppressivemedicationuse.Toaddressthis,sev-
+                         Risk                         b                   maternalts        eral prepregnancy maternal conditions including pregesta-
+                                           y                              r
+                                                                          o
+                                                                          f  medicalcontac  tional diabetes and dyslipidemia were incorporated. Third,
+                         chiatric          activit                        ted               genetic factors were not incorporated. Certain genetic vari-
+                         y                          y     e disorder
+                                                       chiatric disorder  adjus             antsareassociatedwithincreasedneuropsychiatricdisorder
+                                                                          s  maternal
+                                        chiatric disorder                 a  y outpatient   risk,27 and differential expression of placental transporters,
+                         Neurops                                          w
+                         .           chiatric disorder    e-compulsiv          and          resulting in varying levels of fetal acid-suppressive medica-
+                         4
+                                                                          modelss),         tion exposure.28 Fourth, underestimation from unrecorded
+                                                       ere neuropsy       e
+                         igure             ttention-deficit/hyperv        h
+                         F           NeuropsyAny neuropsyAdisorderAutism spectrum disorderIntellectual disabilitSeObsessivaTprepregnancillneover-the-counter (OTC) use cannot be completely excluded.
+              E8      JAMA PublishedonlineJanuary 7,2026 (Reprinted)                                                                                  jama.com
+                 ©2026AmericanMedicalAssociation.All rights reserved, including those for text and data mining, AI training, and similar technologies.
+ Downloaded from jamanetwork.com by Konkuk University Hospital user on 01/14/2026
+                          Acid-SuppressiveMedicationandNeuropsychiatricDisorders                                                                          OriginalInvestigation Research
+                          However,inSouthKorea,PPIsrequireprescription,andOTC                                cannotbereplicatedintheunexposedpopulation,andtheab-
+                          accesstoH2receptorantagonistsarehighlyrestrictedtolow-                             senceofprespecifiedhypothesesforcertainsubgroups.Sev-
+                          dosefamotidineandcimetidine,withhigherdosesandother                                enth,becausethecurrentfindingsarelimitedtoAsianpopu-
+                                                                                          29                 lations,differencesinhealthcaresystems,prescribingpatterns,
+                          H2receptor antagonists requiring a prescription.                   Further-
+                          more,SouthKoreasuniversalsingle-payerhealthinsurance                              andgeneticbackgroundsmaylimitgeneralizability,necessi-
+                          systemreducesfinancialbarriers, ensures broad health care                          tating validation in other populations.
+                                                                                            30
+                          access, and systematically captures prescriptions,                    result-
+                          ing in high antenatal care engagement further supporting
+                                                                     31
+                          prescription-basedmanagement. Fifth,thestudycohortin-                              Conclusions
+                          cluded only live births, precluding assessment of associa-
+                          tionswithpregnancylossorstillbirth.However,previousstud-                           In this large nationwide birth cohort study, exposure to acid-
+                          ies report no significant associations between PPI use and                         suppressivemedicationduringpregnancywasnotassociated
+                          stillbirthorneonataldeath,suggestingminimalselectionbias.32                        with childrens risk of ADHD, severe neuropsychiatric disor-
+                          Sixth,trimester-specificandstratifiedanalysesshouldbein-                           der, obsessive-compulsive disorder, intellectual disability, or
+                          terpreted cautiously due to potential residual confounding                         ASDinsibling-controlanalysis.Associationsobservedinother
+                          from distinct covariate patterns in exposure subgroups that                        modelsmayreflectconfoundingbysharedfamilialfactors.
+                          ARTICLEINFORMATION                                     Funding/Support:Thisresearchwassupported               7. GudnadottirU,WickströmR,GunnerbeckA,
+                          AcceptedforPublication:November16,2025.                bygrantsRS-2024-00509257and                            Prast-NielsenS,BrusselaersN.Prenatalandearly
+                          PublishedOnline:January7,2026.                         IITP-2024-RS-2024-00438239fromtheMinistry              childhoodexposuretoantibioticsorgastricacid
+                          doi:10.1001/jama.2025.23956                            ofScienceandICTandRS-2025-02220492from                 inhibitorsandincreasedriskofepilepsy:
+                                                                                 theMinistryofHealth&Welfare,RepublicofKorea.           anationwidepopulation-basedstudy.Clin
+                          AuthorAffiliations:DepartmentofMedicine,               RoleoftheFunder/Sponsor:Thesponsorshadno               PharmacolTher.2025;118(1):206-217.doi:10.1002/
+                          KyungHeeUniversityCollegeofMedicine,Seoul,             roleinthedesignandconductofthestudy;                   cpt.3679
+                          SouthKorea(Hong,S.Lee,T.H.Kim,Yon);Center              collection,management,analysis,and                     8. FakruddinM,AminT,ShishirMA,etal.Early-Life
+                          forDigitalHealth,MedicalScienceResearch                interpretationofthedata;preparation,review,or          microbiomeandneurodevelopmentaldisorders:
+                          Institute, KyungHeeUniversityMedicalCenter,            approvalofthemanuscript;anddecisiontosubmit            asystematicreviewandmeta-analysis.Curr
+                          KyungHeeUniversityCollegeofMedicine,Seoul,             themanuscriptforpublication.                           Neuropharmacol.2025;24(2):213-229.doi:10.2174/
+                          SouthKorea(Hong,S.Lee,H.Kim,H.Jo,K.Lee,                DataSharingStatement:SeeSupplement2.                   011570159X360129250508113618
+                          Y. Jo, T. H. Kim, Park, H. Lee, Yon); Departmentof                                                            9. ImhannF,BonderMJ,VichVilaA,etal.Proton
+                          PrecisionMedicine,KyungHeeUniversitySchoolof           AdditionalInformation:Thisstudyusedthe                 pumpinhibitorsaffectthegutmicrobiome.Gut.
+                          Medicine,Seoul,SouthKorea(H.Kim,Y.Jo,Park,             databaseoftheNationalHealthInsuranceService            2016;65(5):740-748.doi:10.1136/gutjnl-2015-310376
+                          Yon);DepartmentofRegulatoryScience,Kyung               (NHIS),SouthKoreaforpolicyandacademic
+                          HeeUniversity,Seoul,SouthKorea(H.Jo,K.Lee,             research.TheresearchNo.ofthisstudyis                   10. VichVilaA,CollijV,SannaS,etal.Impactof
+                          Yon);DepartmentofBiomedicalEngineering,                NHIS-2025-03-1-040.                                    commonlyuseddrugsonthecompositionand
+                          KyungHeeUniversity,Yongin,SouthKorea(J.Lee,                                                                   metabolicfunctionofthegutmicrobiota.Nat
+                          H.Lee,Yon);DepartmentofElectronicsand                  REFERENCES                                             Commun.2020;11(1):362.doi:10.1038/s41467-019-
+                          InformationConvergenceEngineering,KyungHee             1. BredenoordAJ,PandolfinoJE,SmoutAJPM.                14177-z
+                          University,Yongin,SouthKorea(J.Lee,H.Lee);             Gastro-oesophagealrefluxdisease.Lancet.2013;           11. MoraisLH,SchreiberHLIV,MazmanianSK.The
+                          DepartmentofNeurology,KyungHeeUniversity               381(9881):1933-1942.doi:10.1016/S0140-6736(12)         gutmicrobiota-brainaxisinbehaviourandbrain
+                          MedicalCenter,KyungHeeUniversityCollegeof              62171-0                                                disorders.NatRevMicrobiol.2021;19(4):241-255.
+                          Medicine,Seoul,Korea(Woo);Departmentof                 2. DunbarK,YadlapatiR,KondaV.Heartburn,                doi:10.1038/s41579-020-00460-0
+                          Pediatrics,KyungHeeUniversityMedicalCenter,            nausea,andvomitingduringpregnancy.AmJ                  12. JensenET,YiJ,JacksonW,etal.Analysisof
+                          KyungHeeUniversityCollegeofMedicine,Seoul,             Gastroenterol.2022;117(10S):10-15.doi:10.14309/ajg.    neurodevelopmentinchildrenbornextremely
+                          SouthKorea(Yon).                                       0000000000001958                                       pretermtreatedwithacidsuppressantsbeforeage
+                          AuthorContributions:DrYonhadfullaccesstoall            3. BreddelsEM,SiminJ,FornesR,etal.                     2 years. JAMA Netw Open. 2022;5(11):e2241943.
+                          ofthedatainthestudyandtakesresponsibilityfor           Population-basedcohortstudy:protonpump                 doi:10.1001/jamanetworkopen.2022.41943
+                          theintegrityofthedataandtheaccuracyofthe               inhibitoruseduringpregnancyinSwedenandthe              13. JinJ.Safetyofmedicationsusedduring
+                          dataanalysis.MsHongandDrS.Leecontributed               risk of maternalandneonataladverseevents.BMC           pregnancy.JAMA.2022;328(5):486-486.doi:10.
+                          equally.DrsH.LeeandYonjointlysupervisedthis            Med.2022;20(1):492.doi:10.1186/s12916-022-             1001/jama.2022.8974
+                          work.                                                  02673-x
+                          Conceptanddesign:Hong,S.Lee,H.Kim,H.Jo,                                                                       14. LeeS,HwangSH,ParkS,etal.Burdenof
+                          K.Lee,Y.Jo,T.Kim,Park,Woo,H.Lee,Yon.                   4. MulderB,Schuiling-VeningaCC,BosHJ,                  cardiovascularoutcomesafterSARS-CoV-2
+                          Acquisition,analysis,orinterpretationofdata:           DeVriesTW,JickSS,HakE.Prenatalexposureto               infectioninSouthKoreaandJapan:abinational
+                          J. Lee, Woo, Yon.                                      acid-suppressivedrugsandtheriskofallergic              population-basedcohortstudy.Circulation.2025;
+                          Draftingofthemanuscript:S.Lee,Yon.                     diseasesintheoffspring:acohortstudy.ClinExp            152(1):11-23. doi:10.1161/CIRCULATIONAHA.125.
+                          Critical review of the manuscriptforimportant          Allergy. 2014;44(2):261-269.doi:10.1111/cea.12227      073086
+                          intellectual content: Hong,H.Kim,H.Jo,K.Lee,           5. LaiT,WuM,LiuJ,etal.Acid-suppressivedrug             15. LeeS,LeeK,OhJ,etal.Livezostervaccination
+                          Y. Jo, T. Kim, Park, J. Lee, Woo, H. Lee, Yon.         useduringpregnancyandtheriskofchildhood                andcardiovascularoutcomes:anationwide,South
+                          Statistical analysis: Park, Yon.                       asthma:ameta-analysis.Pediatrics.2018;141(2):          Koreanstudy.EurHeartJ.2025;46(30):2991-3002.
+                          Obtainedfunding:Woo,Yon.                               e20170889.doi:10.1542/peds.2017-0889                   doi:10.1093/eurheartj/ehaf230
+                          Administrative,technical,ormaterialsupport:Hong,       6. ChoiA,NohY,JeongHE,etal.Association                 16. ThomasLE,LiF,PencinaMJ.Overlap
+                          H.Kim,H.Jo,K.Lee,Y.Jo,T.Kim,J.Lee,Woo,                 betweenprotonpumpinhibitoruseduringearly               weighting:apropensityscoremethodthatmimics
+                          H.Lee,Yon.                                             pregnancyandriskofcongenitalmalformations.             attributesofarandomizedclinicaltrial.JAMA.
+                          Supervision:S. Lee, Woo, Yon.                          JAMANetwOpen.2023;6(1):e2250366.doi:10.                2020;323(23):2417-2418.doi:10.1001/jama.2020.
+                          ConflictofInterestDisclosures:Nonereported.            1001/jamanetworkopen.2022.50366                        7819
+                          jama.com                                                                                                  (Reprinted) JAMA PublishedonlineJanuary 7,2026                E9
+                    ©2026AmericanMedicalAssociation.All rights reserved, including those for text and data mining, AI training, and similar technologies.
+  Downloaded from jamanetwork.com by Konkuk University Hospital user on 01/14/2026
+                        Research OriginalInvestigation                                                                Acid-SuppressiveMedicationandNeuropsychiatricDisorders
+                        17. ZajichekAM,GrunkemeierGL.Propensity            23. GomezdeAgüeroM,Ganal-VonarburgSC,              amongoutpatientsinatertiarycarehospital:
+                        scoresusedasoverlapweightsprovideexact             FuhrerT,etal.Thematernalmicrobiotadrivesearly      focusingontheroleofP-glycoproteinandCYP3A4
+                        covariatebalance.EurJCardiothoracSurg.2024;66      postnatalinnateimmunedevelopment.Science.          (retrospectiveobservationalstudy).Heliyon.2022;
+                        (3):ezae318.doi:10.1093/ejcts/ezae318              2016;351(6279):1296-1302.doi:10.1126/science.      8(11):e11278.doi:10.1016/j.heliyon.2022.e11278
+                        18. Frisell T. Invited commentary:                 aad2571                                            29. NohY,JeongHE,ChoiA,etal.Prenataland
+                        sibling-comparisondesigns,aretheyworththe          24. HudobenkoJ,DiGesùCM,MoozPR,etal.               infantexposuretoacid-suppressivemedications
+                        effort?AmJEpidemiol.2021;190(5):738-741.           Maternaldysbiosisproduceslong-lastingbehavioral    andriskofallergicdiseasesinchildren.JAMAPediatr.
+                        doi:10.1093/aje/kwaa183                            changesinoffspring.MolPsychiatry.2025;30(5):       2023;177(3):267-277.doi:10.1001/jamapediatrics.
+                        19. KangJ,KimHJ,KimT,etal.Prenatalopioid           1847-1858.doi:10.1038/s41380-024-02794-0           2022.5193
+                        exposureandsubsequentriskofneuropsychiatric        25. SherwinE,BordensteinSR,QuinnJL,DinanTG,        30. ChoiJP,KimS,ParkJS,etal.Utilizationofacid
+                        disordersinchildren:nationwidebirthcohortstudy     CryanJF.Microbiotaandthesocialbrain.Science.       suppressantsafterwithdrawalofranitidinein
+                        in South Korea. BMJ. 2024;385:e077664. doi:10.     2019;366(6465):eaar2016.doi:10.1126/science.       Korea:aninterruptedtimeseriesanalysis.JPrev
+                        1136/bmj-2023-077664                               aar2016                                            MedPublicHealth.2025;58(1):21-30.doi:10.3961/
+                        20. LeeS,ParkJ,KangJ,etal.Risksofchronic           26. WangYH,WintzellV,LudvigssonJF,Svanström        jpmph.24.357
+                        urticaria after SARS-CoV-2infection:binational     H,PasternakB.Protonpumpinhibitoruseandrisk         31. KimS,KimC,KimJH.Antenatalcare
+                        population-basedcohortstudiesfromSouthKorea        ofdepressionandanxietyinchildren:nationwide        inequalitiesinSouthKorea:ananalysisofhealth
+                        andJapan.JAllergyClinImmunolPract.2024;12(9):      cohortstudy.ClinTranslSci.2022;15(5):1112-1122.    insuranceclaimsdata(2013-2022)ina
+                        2540-2542.e3.doi:10.1016/j.jaip.2024.05.044        doi:10.1111/cts.13225                              high-resource,high-usecountry.IntJGynaecol
+                        21. KimS,KimH,YimYS,etal.Maternalgut               27. WolstencroftJ,WicksF,SrinivasanR,etal;         Obstet.2024;166(2):718-726.doi:10.1002/ijgo.15459
+                        bacteriapromoteneurodevelopmental                  IMAGINEStudy.Neuropsychiatricriskinchildren        32. LiCM,ZhernakovaA,EngstrandL,WijmengaC,
+                        abnormalitiesinmouseoffspring.Nature.2017;549      withintellectualdisabilityofgeneticorigin:         BrusselaersN.Systematicreviewwith
+                        (7673):528-532.doi:10.1038/nature23910             IMAGINE,aUKnationalcohortstudy.Lancet              meta-analysis:therisksofprotonpumpinhibitors
+                        22. VuongHE,PronovostGN,WilliamsDW,etal.           Psychiatry.2022;9(9):715-724.doi:10.1016/S2215-    duringpregnancy.AlimentPharmacolTher.2020;51
+                        Thematernalmicrobiomemodulatesfetal                0366(22)00207-3                                    (4):410-420.doi:10.1111/apt.15610
+                        neurodevelopmentinmice.Nature.2020;586             28. PatelKA,BhattMH,HiraniRV,etal.
+                        (7828):281-286.doi:10.1038/s41586-020-2745-3       Assessmentofpotentialdrug-druginteractions
+               E10      JAMA PublishedonlineJanuary 7,2026 (Reprinted)                                                                                              jama.com
+                  ©2026AmericanMedicalAssociation.All rights reserved, including those for text and data mining, AI training, and similar technologies.
+ Downloaded from jamanetwork.com by Konkuk University Hospital user on 01/14/2026
