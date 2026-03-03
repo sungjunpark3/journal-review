@@ -9,6 +9,7 @@ format:
     transition: fade
     theme: simple
     footer: "Hong et al. JAMA. doi:10.1001/jama.2025.23956"
+csl: csl/jama.
 ---
 
 ## 논문 정보
