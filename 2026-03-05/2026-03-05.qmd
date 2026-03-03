@@ -1,11 +1,16 @@
 ---
-title: "2026-03-05"
+title: ipsem
+subtitle: ipsem
+date: 2026-03-05
+author: Sungjun Park
 format: revealjs
+csl: csl/socio-economic-review.csl
+bibliography: references.bib
 ---
 
 ## Quarto
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+[@hong2026]
 
 ## Bullets
 
@@ -21,5 +26,3 @@ When you click the **Render** button a presentation will be generated that inclu
 ```{r}
 1 + 1
 ```
-
-
