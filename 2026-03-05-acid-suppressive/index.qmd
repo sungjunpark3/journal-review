@@ -1,0 +1,35 @@
+---
+title: "Review: Prenatal Exposure"
+subtitle: asdf asf asdfa
+format: 
+  revealjs:
+    theme: [simple, ../css/custom.scss]
+author: Sungjun Park
+date: 2026-03-05
+bibliography: references.bib
+csl: ../csl/jama.csl
+---
+
+---
+
+::: {.callout-note}
+
+### test
+
+test test test
+
+:::
+
+## Methods
+
+## Data Source
+
+## Study Population
+
+> 바보
+
+```{r}
+
+1 + 1
+
+```
