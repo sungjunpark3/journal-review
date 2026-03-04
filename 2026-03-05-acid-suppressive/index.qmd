@@ -1,35 +1,112 @@
 ---
-title: "Review: Prenatal Exposure"
-subtitle: asdf asf asdfa
+title: "Journal Review 01"
+subtitle: "Prenatal Exposure to Acid-Suppressive Medications and Risk of Neuropsychiatric Disorders in Children."
+footer: "**Article Reviewed**: Hong S, et al. Prenatal Exposure to Acid-Suppressive Medications and Risk of Neuropsychiatric Disorders in Children. *JAMA* (2026;335[7]:609)."
+number-sections: true
+number-depth: 3
+toc: true
+toc-depth: 1
 format: 
   revealjs:
     theme: [simple, ../_assets/css/custom.scss]
 author: Sungjun Park
 date: 2026-03-05
 bibliography: references.bib
-csl: ../_assets/csl/jama.csl
 ---
 
----
+## Summary
 
-::: {.callout-note}
+산모의 **위산억제제 복용**이 자녀의 **신경정신질환 발생위험**과 연관이 있는가?
 
-### test
+* **Population**: 2010.01-2017.12 에 출생한 모자 코호트 (NHIS)
+* **Intervention**: 임신 중 위산억제제 처방
+  + 프로톤 펌프 억제제(PPI), 
+  + H2 수용체 길항제(H2 receptor antagonists)
+* **Comparison**: 임신 중 위산억제제 처방받지 않음
+* **Outcome**: 자녀 신경정신질환 발생
+  + 중증 신경정신과적 장애(조현병 등),
+  + 강박장애(obsessive-compulsive),
+  + ADHD, 자폐(autism), 지적장애 등
 
-test test test
+## Introduction
 
-:::
+* 임신 중 acid-suppressive medication(PPI/H2RA) 노출이 자녀의 신경정신질환 위험을 높이는가?
+* 관찰연구에서 보이는 작은 위험 증가가 인과효과인지, 가족 단위 교란(confounding)인지 구분할 수 있는가?
 
-## Methods
+## Why Important?
 
-## Data Source
+* PPI/H2RA는 임신 중 속쓰림과 위식도역류 증상으로 매우 흔히 처방됨.
+* 기존 연구는 조산, 알레르기, 천식 등과의 연관성은 제시했지만 신경정신질환에 대한 근거는 제한적이었음.
+* 실제 처방 의사결정에서는 단순 연관성보다 임상적으로 신뢰할 수 있는 인과적 신호가 중요함.
 
-## Study Population
+## Methods: Cohort Construction
 
-> 바보
+* 초기 모자 쌍: 3,012,992
+* 최종 분석 코호트: 2,777,119
+* 노출군(임신 중 1회 이상 처방): 507,845
+* 비노출군: 2,269,274
+* Overlap-weighted 코호트: 노출군 403,658 vs 비노출군 403,659
+* 형제자매 매칭 코호트: 노출군 157,069 vs 비노출군 164,669(불일치 형제자매 쌍 151,737)
 
-```{r}
+## Exposure and Outcomes
 
-1 + 1
+* 노출 정의: 임신 중 PPI 또는 H2RA 처방
+* 주요 결과: ADHD, ASD, 지적장애, 중증 신경정신질환, 강박장애
+* 추가 복합 결과: 전체 신경정신질환
+* 주 분석: 성향점수 overlap weighting을 적용한 Cox 회귀
+* 인과 강건성 검증: 형제자매 층화 Cox 분석
 
-```
+## Main Results (Overlap-Weighted Model)
+
+| 결과지표 | 노출군 vs 비노출군 | 보정 HR (95% CI) |
+|---|---|---|
+| 전체 신경정신질환 | * | 1.13 (1.11-1.15) |
+| 주의력결핍과잉행동장애(ADHD) | 4.85% vs 4.25% | 1.14 (1.12-1.17) |
+| 자폐스펙트럼장애(ASD) | 1.45% vs 1.33% | 1.07 (1.03-1.11) |
+| 지적장애 | 1.25% vs 1.09% | 1.13 (1.09-1.18) |
+| 중증 신경정신질환 | 0.94% vs 0.81% | 1.16 (1.10-1.21) |
+| 강박장애 | 0.30% vs 0.27% | 1.12 (1.03-1.21) |
+
+## Main Results (Sibling-Matched Model)
+
+* 전체 신경정신질환: HR 1.00 (95% CI, 0.97-1.03)
+* ADHD: HR 0.98 (95% CI, 0.95-1.02)
+* ASD: HR 0.98 (95% CI, 0.92-1.04)
+* 지적장애: HR 1.02 (95% CI, 0.95-1.09)
+* 중증 신경정신질환: HR 1.00 (95% CI, 0.93-1.08)
+* 강박장애: HR 0.95 (95% CI, 0.82-1.10)
+* 핵심: 가족 내 비교에서는 유의한 위험 증가가 관찰되지 않음.
+
+## Subgroup and Sensitivity
+
+* 약제군 분석: H2RA 단독 HR 1.12, PPI 단독 HR 1.20(전체 신경정신질환 기준, 약제군 간 유의 차이 없음)
+* 시기 분석: 1분기 노출에서 연관성이 가장 일관되며, 2분기/3분기 노출은 대부분 비유의
+* 민감도 분석 1: 노출 정의를 2회 이상 처방으로 강화해도 유사한 방향
+* 민감도 분석 2: 아동 검진 코호트에서도 주 분석과 일관된 결과
+
+## Interpretation
+
+* 대규모 전체 코호트에서는 작은 연관성이 관찰되지만, 형제자매 비교 분석에서는 소실됨.
+* 저자 해석: 공유된 가족 요인에 의한 잔여 교란 가능성이 큼.
+* 임상적으로는 "강한 인과적 위해 신호"보다는 "관찰연구 기반의 약한 연관"으로 해석하는 것이 타당.
+
+## Strengths
+
+* 전국 단위 실제진료자료 기반의 매우 큰 표본(270만명 이상)
+* 장기 추적(평균 10.3년)
+* Overlap weighting으로 공변량 균형 확보(SMD < 0.1)
+* 형제자매 비교 설계로 비측정 가족 단위 교란을 추가 통제
+
+## Limitations
+
+* 처방 기록 기반 노출 정의로 실제 복약 순응도 확인 불가
+* BMI, 생활습관 등 잔여 교란 가능성
+* 유전정보 미포함
+* OTC 사용 누락 가능성(다만 한국은 고용량 제제 처방 의존도가 높음)
+* 생존 출생 코호트이므로 임신 소실/사산 관련 위험은 평가 불가
+
+## Take-Home Message
+
+* 임신 중 PPI/H2RA 노출은 **형제자매 비교 분석 기준에서 자녀 신경정신질환 위험 증가와 연관되지 않음**.
+* 진료 현장에서는 적응증이 명확한 경우 위산분비억제제 사용을 과도하게 회피할 근거는 제한적.
+* 다만 개별 환자에서는 최소 유효 용량, 노출 시기, 동반 위험요인을 함께 고려한 처방이 필요.
