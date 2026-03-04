@@ -3,11 +3,11 @@ title: "Review: Prenatal Exposure"
 subtitle: asdf asf asdfa
 format: 
   revealjs:
-    theme: [simple, ../css/custom.scss]
+    theme: [simple, ../_assets/css/custom.scss]
 author: Sungjun Park
 date: 2026-03-05
 bibliography: references.bib
-csl: ../csl/jama.csl
+csl: ../_assets/csl/jama.csl
 ---
 
 ---
