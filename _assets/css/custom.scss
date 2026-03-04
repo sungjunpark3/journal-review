@@ -37,6 +37,10 @@
   font-weight: 400;
 }
 
+.reveal .quarto-figure figcaption {
+    text-align: center !important;
+  }
+
 .reveal h1,
 .reveal h2,
 .reveal h3,
@@ -95,6 +99,28 @@
 .reveal strong,
 .reveal b {
   font-weight: 700 !important;
+}
+
+.reveal table {
+  margin-top: 1.00em !important;
+  border-top: 2px solid var(--slide-border);
+  border-bottom: 2px solid var(--slide-border);
+}
+
+.reveal table td,
+.reveal table th {
+  font-size: 0.70em !important;
+}
+
+.reveal table thead th {
+  font-weight: 700 !important;
+  background-color: #b7c0c9;
+  color: #111111;
+}
+
+.reveal table tbody td {
+  background-color: #d5d9de;
+  color: #111111;
 }
 
 /* Title slide: keep theme defaults, only force Pretendard font */

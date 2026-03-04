@@ -30,7 +30,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="index_files/libs/revealjs/dist/theme/quarto-da73c995592a274f23a564a6242648e8.css">
+  <link rel="stylesheet" href="index_files/libs/revealjs/dist/theme/quarto-a3dfac5d1cbc525dbf65a00a6d3e130d.css">
   <link href="index_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="index_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="index_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -163,41 +163,277 @@ Sungjun Park
 <section id="introduction" class="slide level2" data-number="2">
 <h2><span class="header-section-number">2</span> Introduction</h2>
 <ul>
-<li>임신 중 acid-suppressive medication(PPI/H2RA) 노출이 자녀의 신경정신질환 위험을 높이는가?</li>
-<li>관찰연구에서 보이는 작은 위험 증가가 인과효과인지, 가족 단위 교란(confounding)인지 구분할 수 있는가?</li>
-</ul>
-</section>
-<section id="why-important" class="slide level2" data-number="3">
-<h2><span class="header-section-number">3</span> Why Important?</h2>
+<li>그간 여러 연구에서 산모의 위산억제제<sup>1</sup> 복용에 대한 유해성 제기
 <ul>
-<li>PPI/H2RA는 임신 중 속쓰림과 위식도역류 증상으로 매우 흔히 처방됨.</li>
-<li>기존 연구는 조산, 알레르기, 천식 등과의 연관성은 제시했지만 신경정신질환에 대한 근거는 제한적이었음.</li>
-<li>실제 처방 의사결정에서는 단순 연관성보다 임상적으로 신뢰할 수 있는 인과적 신호가 중요함.</li>
-</ul>
-</section>
-<section id="methods-cohort-construction" class="slide level2" data-number="4">
-<h2><span class="header-section-number">4</span> Methods: Cohort Construction</h2>
+<li>조산, 알러지성 질환, 천식, 선천성 기형, 뇌전증(간질) 등</li>
+</ul></li>
+<li><strong>태아의 신경계 발달</strong>에 대한 유해성도 주목받음
 <ul>
-<li>초기 모자 쌍: 3,012,992</li>
-<li>최종 분석 코호트: 2,777,119</li>
-<li>노출군(임신 중 1회 이상 처방): 507,845</li>
-<li>비노출군: 2,269,274</li>
-<li>Overlap-weighted 코호트: 노출군 403,658 vs 비노출군 403,659</li>
-<li>형제자매 매칭 코호트: 노출군 157,069 vs 비노출군 164,669(불일치 형제자매 쌍 151,737)</li>
-</ul>
-</section>
-<section id="exposure-and-outcomes" class="slide level2" data-number="5">
-<h2><span class="header-section-number">5</span> Exposure and Outcomes</h2>
+<li>태아의 장내 미생물군은 뇌 신경망 형성에 주요한 역할 수행</li>
+<li>산모의 위산억제제 복용은 태아의 신경발달 프로세스에 영향을 미칠 수 있음</li>
+</ul></li>
+<li>특히, 조산아의 2세 전 위산억제제 복용이 신경발달장애 위험증가와 관련이 있을 수 있다는 연구<br>
+➡️ 동일한 매커니즘이 태아에게도 작동할 수 있음에 우려 대두
 <ul>
-<li>노출 정의: 임신 중 PPI 또는 H2RA 처방</li>
-<li>주요 결과: ADHD, ASD, 지적장애, 중증 신경정신질환, 강박장애</li>
-<li>추가 복합 결과: 전체 신경정신질환</li>
-<li>주 분석: 성향점수 overlap weighting을 적용한 Cox 회귀</li>
-<li>인과 강건성 검증: 형제자매 층화 Cox 분석</li>
+<li>산모가 복용하는 PPIs, H2 receptor antagonists는 태반장벽 통과 가능</li>
+</ul></li>
+</ul>
+<aside><ol class="aside-footnotes"><li id="fn1"><p>PPIs and H2 receptor antagonists</p></li></ol></aside></section>
+<section class="slide level2">
+
+<ul>
+<li><p>위산억제제는 임신 중 속쓰림과 위식도역류 증상에 대해 매우 흔히 처방됨<br>
+➡️ 그러나 신경정신질환 발생위험과의 관계는 알려져 있지 않음</p></li>
+<li><p>기존 연구는 조산, 알레르기, 천식 등과의 연관성은 제시했지만 신경정신질환에 대한 근거는 제한적이었음.</p></li>
+<li><p><strong>연구목적</strong><br>
+이에 전국단위 인구를 포괄하는 대규모 코호트 자료를 활용하여, 산모의 위산억제제와 자녀의 신경정신질환 발생위험 사이의 연관성을 밝힘</p></li>
+</ul>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figure01.jpg" style="width:120.0%"></p>
+<figcaption>프로톤 펌프 억제제 계열: 에소메졸</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figure02.png" style="width:80.0%"></p>
+<figcaption>H2 수용체 길항제 계열: 시메티딘</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="methods" class="slide level2" data-number="3">
+<h2><span class="header-section-number">3</span> Methods</h2>
+<h3 data-number="3.1" id="data-source"><span class="header-section-number">3.1</span> Data Source</h3>
+<ul>
+<li><strong>데이터</strong> 국민건강보험공단 전국규모(가입률 97%)의 모-자 연계 코호트<br>
+(2009.01.01-2023.12.31)</li>
+<li><strong>활용자료</strong>
+<ul>
+<li><strong>Demographics</strong>: 성별, 나이, 지역, 보험유형, 소득수준,</li>
+<li><strong>Clinical</strong>: 진단코드(ICD-10), 진단일, 진료과 등</li>
+<li><strong>Medical procedures</strong>: 수술 및 비약물적 시술기록</li>
+<li><strong>Prescription records</strong>: 약물코드 &amp; 투여방법(경로: 경구, 주사 등)</li>
+<li><strong>Health care utilization</strong>: 입원 or 외래</li>
+<li><strong>Infant screening</strong>: 출생 체중, 조산여부 등</li>
+</ul></li>
 </ul>
 </section>
-<section id="main-results-overlap-weighted-model" class="slide level2" data-number="6">
-<h2><span class="header-section-number">6</span> Main Results (Overlap-Weighted Model)</h2>
+<section class="slide level2">
+
+<h3 data-number="3.2" id="study-population"><span class="header-section-number">3.2</span> Study Population</h3>
+<ul>
+<li><p>(<strong>연구대상</strong>) 2010.01.01-2017.12.31 사이에 출산한 13-58세 여성</p>
+<ul>
+<li>산모는 임신 12개월 전까지 관찰(look-back),</li>
+<li>자녀는 2023.12.31까지 추적(follow-up)</li>
+</ul></li>
+<li><p>(<strong>제외</strong>) 임신 <strong>전</strong> 30일 내에 위산억제제 복용한 산모<sup>1</sup>, 자료누락 등</p></li>
+<li><p>(<strong>최종</strong>) 2,777,119명의 자녀(어머니 2,075,648명) 모-자 연계데이터</p>
+<ul>
+<li>(<strong>위산억제제 1회이상 노출군</strong>) 507,845명</li>
+<li>(<strong>2회이상 노출군</strong>) 170,684명 (민감도 분석 1)</li>
+<li>(<strong>1회이상 노출군 &amp; 기저질환 자녀제외</strong>) 441,250명 (민감도 분석 2)</li>
+</ul></li>
+</ul>
+<aside><ol class="aside-footnotes"><li id="fn2"><p>청구자료상 임신 전/후 날짜가 불특정하기 때문?(LMP?). 만성질환자에 의한 모델 bias 등을 최소화하고, 임신전 복용 효과가 임신후로 이어질 수 있어서 washout period를 갖기 위해?</p></li></ol></aside></section>
+<section class="slide level2">
+
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="1">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 100.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figure03.png"></p>
+<figcaption>Study Population</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="slide level2">
+
+<h3 data-number="3.3" id="outcome"><span class="header-section-number">3.3</span> Outcome</h3>
+<p>ICD-10 코드를 활용하여, 출생 후 첫 진단을 onset으로 설정<br>
+</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">구분</th>
+<th style="text-align: left;">코드</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">심각한 신경정신 질환(조현병 등)</td>
+<td style="text-align: left;">F20-24, F28-29, F25, F30-31, F32.3, F33.3</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">강박성 장애</td>
+<td style="text-align: left;">F42</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">ADHD</td>
+<td style="text-align: left;">F90</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">ASD (자폐)</td>
+<td style="text-align: left;">F84.0, F84.1, F84.5, F84.8, F84.9</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">지적 장애</td>
+<td style="text-align: left;">F70-F79</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section class="slide level2">
+
+<h3 data-number="3.4" id="covariates"><span class="header-section-number">3.4</span> Covariates</h3>
+<p>추정식에 포함하여 Crude vs.&nbsp;Adjusted 분석결과 비교</p>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th style="text-align: left;">구분</th>
+<th style="text-align: left;">변수 요약</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">산모 인구사회학적 특징</td>
+<td style="text-align: left;">출산시 연령, 거주지, 소득 사분위수, 다자녀 여부</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">산모 임상적 특징</td>
+<td style="text-align: left;">정신질환, 산전 질환 및 의료이용</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">출산 요인</td>
+<td style="text-align: left;">분만 방법, 출산시 계절</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">자녀 요인</td>
+<td style="text-align: left;">성별, 조산여부, 저체중 여부</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="statistical-analysis" class="slide level2" data-number="4">
+<h2><span class="header-section-number">4</span> Statistical Analysis</h2>
+<h3 data-number="4.1" id="propensity-score-based-overlap-weighted"><span class="header-section-number">4.1</span> Propensity-score-based overlap-weighted</h3>
+<ul>
+<li><p>산모의 위산억제제 복용은 무작위로 배정되지 않았음<br>
+➡️ 단순비교가 어려움 (confounding)</p></li>
+<li><p>통상적으로 모델에 covariate 포함시켜서 보정(Crude vs.&nbsp;Adjusted)<br>
+➡️ covariate과 outcome 간에 선형성 가정 필요 and 차원의 저주</p></li>
+<li><p>covariate를 활용하여 <strong>노출될 확률(PS)</strong>을 계산하고, 이 노출될 확률이 비슷한 개체끼리 매칭하여 분석 (Propensity Score Matching)<br>
+➡️ 차원의 저주 문제 완화 &amp; 선형성 가정 회피, but<br>
+➡️ <strong>PS가 매우 높은 비노출군</strong> 혹은 <strong>PS가 매우 낮은 노출군</strong>은 드물음<br>
+➡️➡️ 이 드물은 케이스들이 모델에 영향을 주어 추정이 불안정해짐</p></li>
+</ul>
+<p><strong>더 많은 케이스들이 모델추정에 더 많이 반영되도록 코호트 구성 필요</strong></p>
+</section>
+<section class="slide level2">
+
+<ul>
+<li>노출군은 보통 PS가 높음 ➡️ PS가 아주 낮은 노출군은 드물음</li>
+<li>비노출군은 보통 PS가 낮음 ➡️ PS가 아주 높은 비노출군은 드물음</li>
+<li>공통된 부분에 더 많은 가중치를 주어 코호트 구성 필요
+<ul>
+<li>common support, i.e., overlap</li>
+</ul></li>
+</ul>
+
+<img data-src="figure04.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section class="slide level2">
+
+<ul>
+<li>PS가 극단값이라면 ➡️ 가중치가 0에 가까워지도록,</li>
+<li>PS가 0.5 ➡️ 가중치가 가장 커지도록 구성</li>
+</ul>
+<p><span class="math display">\[
+w_i=
+\begin{cases}
+노출군:1-PS\\
+비노출군:PS
+\end{cases}
+\]</span></p>
+<p><strong>일반 코호트(unadjusted)와 가중된 코호트(overlap-weighted)에서 모두 분석하여 비교제시</strong></p>
+
+<img data-src="figure05.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section class="slide level2">
+
+<h3 data-number="4.2" id="cox-propotional-hazard-regression"><span class="header-section-number">4.2</span> Cox propotional hazard regression</h3>
+<ul>
+<li>출생 후 추적 중 사건 발생 시점이 각각 다르고 우측절단(censoring)<sup>1</sup>이 존재하는 데이터</li>
+</ul>
+<p>➡️ <strong>Cox의 비례위험모델 활용</strong></p>
+<ul>
+<li>발생여부 &amp; 진단까지 걸린 시간(time-to-event) 활용할 수 있고,</li>
+<li>공변량을 활용하여 confounder 완화할 수 있음</li>
+</ul>
+<aside><ol class="aside-footnotes"><li id="fn3"><p>2023.12.31까지 outcome 발생이 없을 수 있음</p></li></ol></aside></section>
+<section class="slide level2">
+
+<h4 id="cox-propotional-hazard-regression-1">Cox propotional hazard regression</h4>
+<ol type="1">
+<li>모든 개인에게 공통적으로 적용되는 기본 발생위험 <span class="math inline">\(h_0(t)\)</span>을 가정하여,</li>
+<li>노출여부에 따라 각 개인의 발생위험 <span class="math inline">\(h_i(t)\)</span>이 증가하는 정도를,</li>
+<li><strong>상대적인</strong> 형태로 표현 가능</li>
+</ol>
+<p>➡️ 노출군과 비노출군의 <strong>평균적인</strong> 위험비(HR: Hazard Ratio)를 계산</p>
+<p><span class="math display">\[
+\log\left(\frac{h_i(t)}{h_0(t)}\right)=\beta Z_i+\gamma^\top X_i
+\]</span></p>
+</section>
+<section class="slide level2">
+
+<h3 data-number="4.3" id="main-analysis"><span class="header-section-number">4.3</span> Main Analysis</h3>
+<ul>
+<li><p><strong>(1)</strong> overlap-weighted 코호트에 Cox 비례위험모델을 적용하여,<br>
+위산억제제 노출군과 비노출군 간의 신경정신질환 위험비(HR)를 추정</p></li>
+<li><p><strong>(2)</strong> 1에 더하여, 형재자매 간 비교 (Sibling-Matched Analyses)<br>
+Stratified Cox 모델 적용</p>
+<ul>
+<li>같은 어머니에게서 태어난 형제자매 중 노출여부가 다른 경우를 대상으로 분석</li>
+<li>가족 내 비관측 교란요인 통제 가능(유전적 요인, 양육환경 등)</li>
+</ul></li>
+</ul>
+
+<img data-src="figure07.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section class="slide level2">
+
+<h3 data-number="4.4" id="sensitivity-analysis"><span class="header-section-number">4.4</span> Sensitivity Analysis</h3>
+<h4 id="main-analyses와-비교하여-main의-강건성을-확인">Main Analyses와 비교하여 Main의 강건성을 확인</h4>
+<ul>
+<li><p><strong>(1)</strong> 노출군을 위산억제제 2회 이상으로 정의 ➡️ 노출 오분류</p></li>
+<li><p><strong>(2)</strong> 동일한 분석을 고위험 자녀를 제외하고 분석 ➡️ 기저질환 confounding</p>
+<ul>
+<li>면역질환, 섬유증, 신장질환, 종양, 염색체 이상 등</li>
+</ul></li>
+</ul>
+
+<img data-src="figure08.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="main-results-overlap-weighted-model" class="slide level2" data-number="5">
+<h2><span class="header-section-number">5</span> Main Results (Overlap-Weighted Model)</h2>
 <table class="caption-top">
 <thead>
 <tr class="header">
@@ -240,8 +476,8 @@ Sungjun Park
 </tbody>
 </table>
 </section>
-<section id="main-results-sibling-matched-model" class="slide level2" data-number="7">
-<h2><span class="header-section-number">7</span> Main Results (Sibling-Matched Model)</h2>
+<section id="main-results-sibling-matched-model" class="slide level2" data-number="6">
+<h2><span class="header-section-number">6</span> Main Results (Sibling-Matched Model)</h2>
 <ul>
 <li>전체 신경정신질환: HR 1.00 (95% CI, 0.97-1.03)</li>
 <li>ADHD: HR 0.98 (95% CI, 0.95-1.02)</li>
@@ -252,8 +488,8 @@ Sungjun Park
 <li>핵심: 가족 내 비교에서는 유의한 위험 증가가 관찰되지 않음.</li>
 </ul>
 </section>
-<section id="subgroup-and-sensitivity" class="slide level2" data-number="8">
-<h2><span class="header-section-number">8</span> Subgroup and Sensitivity</h2>
+<section id="subgroup-and-sensitivity" class="slide level2" data-number="7">
+<h2><span class="header-section-number">7</span> Subgroup and Sensitivity</h2>
 <ul>
 <li>약제군 분석: H2RA 단독 HR 1.12, PPI 단독 HR 1.20(전체 신경정신질환 기준, 약제군 간 유의 차이 없음)</li>
 <li>시기 분석: 1분기 노출에서 연관성이 가장 일관되며, 2분기/3분기 노출은 대부분 비유의</li>
@@ -261,16 +497,16 @@ Sungjun Park
 <li>민감도 분석 2: 아동 검진 코호트에서도 주 분석과 일관된 결과</li>
 </ul>
 </section>
-<section id="interpretation" class="slide level2" data-number="9">
-<h2><span class="header-section-number">9</span> Interpretation</h2>
+<section id="interpretation" class="slide level2" data-number="8">
+<h2><span class="header-section-number">8</span> Interpretation</h2>
 <ul>
 <li>대규모 전체 코호트에서는 작은 연관성이 관찰되지만, 형제자매 비교 분석에서는 소실됨.</li>
 <li>저자 해석: 공유된 가족 요인에 의한 잔여 교란 가능성이 큼.</li>
 <li>임상적으로는 “강한 인과적 위해 신호”보다는 “관찰연구 기반의 약한 연관”으로 해석하는 것이 타당.</li>
 </ul>
 </section>
-<section id="strengths" class="slide level2" data-number="10">
-<h2><span class="header-section-number">10</span> Strengths</h2>
+<section id="strengths" class="slide level2" data-number="9">
+<h2><span class="header-section-number">9</span> Strengths</h2>
 <ul>
 <li>전국 단위 실제진료자료 기반의 매우 큰 표본(270만명 이상)</li>
 <li>장기 추적(평균 10.3년)</li>
@@ -278,8 +514,8 @@ Sungjun Park
 <li>형제자매 비교 설계로 비측정 가족 단위 교란을 추가 통제</li>
 </ul>
 </section>
-<section id="limitations" class="slide level2" data-number="11">
-<h2><span class="header-section-number">11</span> Limitations</h2>
+<section id="limitations" class="slide level2" data-number="10">
+<h2><span class="header-section-number">10</span> Limitations</h2>
 <ul>
 <li>처방 기록 기반 노출 정의로 실제 복약 순응도 확인 불가</li>
 <li>BMI, 생활습관 등 잔여 교란 가능성</li>
@@ -288,8 +524,8 @@ Sungjun Park
 <li>생존 출생 코호트이므로 임신 소실/사산 관련 위험은 평가 불가</li>
 </ul>
 </section>
-<section id="take-home-message" class="slide level2" data-number="12">
-<h2><span class="header-section-number">12</span> Take-Home Message</h2>
+<section id="take-home-message" class="slide level2" data-number="11">
+<h2><span class="header-section-number">11</span> Take-Home Message</h2>
 <ul>
 <li>임신 중 PPI/H2RA 노출은 <strong>형제자매 비교 분석 기준에서 자녀 신경정신질환 위험 증가와 연관되지 않음</strong>.</li>
 <li>진료 현장에서는 적응증이 명확한 경우 위산분비억제제 사용을 과도하게 회피할 근거는 제한적.</li>
@@ -297,6 +533,7 @@ Sungjun Park
 </ul>
 
 </section>
+
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <div class="footer footer-default">
