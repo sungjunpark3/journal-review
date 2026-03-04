@@ -1,0 +1,19 @@
+---
+title: Journal Review
+author: Sungjun Park
+format: html
+---
+
+```{=html}
+<style>
+table th:first-child,
+table td:first-child {
+  white-space: nowrap;
+  width: 9em;
+}
+</style>
+```
+
+|Date       |Article Reviewed|
+|:----------|:------|
+|2026-03-06|[Prenatal Exposure to Acid-Suppressive Medications and Risk of Neuropsychiatric Disorders in Children](2026-03-05-acid-suppressive/index.html)
