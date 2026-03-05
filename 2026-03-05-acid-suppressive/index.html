@@ -406,7 +406,6 @@ w_i=
 </section>
 <section class="slide level2">
 
-<h3 data-number="4.3" id="main-analysis"><span class="header-section-number">4.3</span> Main Analysis</h3>
 <ul>
 <li><p><strong>(1)</strong> overlap-weighted 코호트에 Cox 비례위험모델을 적용하여,<br>
 위산억제제 노출군과 비노출군 간의 신경정신질환 위험비(HR)를 추정</p></li>
@@ -421,7 +420,7 @@ Stratified Cox 모델 적용</p>
 <img data-src="figure07.png" class="quarto-figure quarto-figure-center r-stretch"></section>
 <section class="slide level2">
 
-<h3 data-number="4.4" id="sensitivity-analysis"><span class="header-section-number">4.4</span> Sensitivity Analysis</h3>
+<h3 data-number="4.3" id="sensitivity-analysis"><span class="header-section-number">4.3</span> Sensitivity Analysis</h3>
 <h4 id="main-analyses와-비교하여-main의-강건성을-확인">Main Analyses와 비교하여 Main의 강건성을 확인</h4>
 <ul>
 <li><p><strong>(1)</strong> 노출군을 위산억제제 2회 이상으로 정의 ➡️ 노출 오분류</p></li>
@@ -432,107 +431,106 @@ Stratified Cox 모델 적용</p>
 </ul>
 
 <img data-src="figure08.png" class="quarto-figure quarto-figure-center r-stretch"></section>
-<section id="main-results-overlap-weighted-model" class="slide level2" data-number="5">
-<h2><span class="header-section-number">5</span> Main Results (Overlap-Weighted Model)</h2>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th>결과지표</th>
-<th>노출군 vs 비노출군</th>
-<th>보정 HR (95% CI)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>전체 신경정신질환</td>
-<td>*</td>
-<td>1.13 (1.11-1.15)</td>
-</tr>
-<tr class="even">
-<td>주의력결핍과잉행동장애(ADHD)</td>
-<td>4.85% vs 4.25%</td>
-<td>1.14 (1.12-1.17)</td>
-</tr>
-<tr class="odd">
-<td>자폐스펙트럼장애(ASD)</td>
-<td>1.45% vs 1.33%</td>
-<td>1.07 (1.03-1.11)</td>
-</tr>
-<tr class="even">
-<td>지적장애</td>
-<td>1.25% vs 1.09%</td>
-<td>1.13 (1.09-1.18)</td>
-</tr>
-<tr class="odd">
-<td>중증 신경정신질환</td>
-<td>0.94% vs 0.81%</td>
-<td>1.16 (1.10-1.21)</td>
-</tr>
-<tr class="even">
-<td>강박장애</td>
-<td>0.30% vs 0.27%</td>
-<td>1.12 (1.03-1.21)</td>
-</tr>
-</tbody>
-</table>
-</section>
-<section id="main-results-sibling-matched-model" class="slide level2" data-number="6">
-<h2><span class="header-section-number">6</span> Main Results (Sibling-Matched Model)</h2>
+<section id="results" class="slide level2" data-number="5">
+<h2><span class="header-section-number">5</span> Results</h2>
+<h3 data-number="5.1" id="study-cohort-table-1"><span class="header-section-number">5.1</span> Study Cohort (Table 1)</h3>
 <ul>
-<li>전체 신경정신질환: HR 1.00 (95% CI, 0.97-1.03)</li>
-<li>ADHD: HR 0.98 (95% CI, 0.95-1.02)</li>
-<li>ASD: HR 0.98 (95% CI, 0.92-1.04)</li>
-<li>지적장애: HR 1.02 (95% CI, 0.95-1.09)</li>
-<li>중증 신경정신질환: HR 1.00 (95% CI, 0.93-1.08)</li>
-<li>강박장애: HR 0.95 (95% CI, 0.82-1.10)</li>
-<li>핵심: 가족 내 비교에서는 유의한 위험 증가가 관찰되지 않음.</li>
+<li><strong>unadjusted 코호트</strong>&nbsp; 노출군 507,845명 vs.&nbsp;비노출군 2,269,274명
+<ul>
+<li>위장질환, 가벼운 정신질환, 산전 외래횟수 등에서 SMD&gt;0.1</li>
+</ul></li>
+<li><strong>overlap-weighted 코호트</strong>&nbsp; 노출군 403,658명 vs.&nbsp;비노출군 403,657명
+<ul>
+<li>unadjusted에 비해 SMD 감소 경향</li>
+<li>모든 Covariates에서 SMD&lt;0.1 로 밸런싱 됨</li>
+</ul></li>
 </ul>
 </section>
-<section id="subgroup-and-sensitivity" class="slide level2" data-number="7">
-<h2><span class="header-section-number">7</span> Subgroup and Sensitivity</h2>
+<section id="main-analysis-figure-2" class="slide level2" data-number="6">
+<h2><span class="header-section-number">6</span> Main Analysis (Figure 2)</h2>
 <ul>
-<li>약제군 분석: H2RA 단독 HR 1.12, PPI 단독 HR 1.20(전체 신경정신질환 기준, 약제군 간 유의 차이 없음)</li>
-<li>시기 분석: 1분기 노출에서 연관성이 가장 일관되며, 2분기/3분기 노출은 대부분 비유의</li>
-<li>민감도 분석 1: 노출 정의를 2회 이상 처방으로 강화해도 유사한 방향</li>
-<li>민감도 분석 2: 아동 검진 코호트에서도 주 분석과 일관된 결과</li>
-</ul>
-</section>
-<section id="interpretation" class="slide level2" data-number="8">
-<h2><span class="header-section-number">8</span> Interpretation</h2>
+<li>산모 위산억제제 복용 시, 자녀 정신질환 발생위험이 증가
 <ul>
-<li>대규모 전체 코호트에서는 작은 연관성이 관찰되지만, 형제자매 비교 분석에서는 소실됨.</li>
-<li>저자 해석: 공유된 가족 요인에 의한 잔여 교란 가능성이 큼.</li>
-<li>임상적으로는 “강한 인과적 위해 신호”보다는 “관찰연구 기반의 약한 연관”으로 해석하는 것이 타당.</li>
-</ul>
-</section>
-<section id="strengths" class="slide level2" data-number="9">
-<h2><span class="header-section-number">9</span> Strengths</h2>
-<ul>
-<li>전국 단위 실제진료자료 기반의 매우 큰 표본(270만명 이상)</li>
-<li>장기 추적(평균 10.3년)</li>
-<li>Overlap weighting으로 공변량 균형 확보(SMD &lt; 0.1)</li>
-<li>형제자매 비교 설계로 비측정 가족 단위 교란을 추가 통제</li>
-</ul>
-</section>
-<section id="limitations" class="slide level2" data-number="10">
-<h2><span class="header-section-number">10</span> Limitations</h2>
-<ul>
-<li>처방 기록 기반 노출 정의로 실제 복약 순응도 확인 불가</li>
-<li>BMI, 생활습관 등 잔여 교란 가능성</li>
-<li>유전정보 미포함</li>
-<li>OTC 사용 누락 가능성(다만 한국은 고용량 제제 처방 의존도가 높음)</li>
-<li>생존 출생 코호트이므로 임신 소실/사산 관련 위험은 평가 불가</li>
-</ul>
-</section>
-<section id="take-home-message" class="slide level2" data-number="11">
-<h2><span class="header-section-number">11</span> Take-Home Message</h2>
-<ul>
-<li>임신 중 PPI/H2RA 노출은 <strong>형제자매 비교 분석 기준에서 자녀 신경정신질환 위험 증가와 연관되지 않음</strong>.</li>
-<li>진료 현장에서는 적응증이 명확한 경우 위산분비억제제 사용을 과도하게 회피할 근거는 제한적.</li>
-<li>다만 개별 환자에서는 최소 유효 용량, 노출 시기, 동반 위험요인을 함께 고려한 처방이 필요.</li>
+<li>중증 신경정신질환이 가장 높고 (HR 1.16, CI 1.10-1.21),</li>
+<li>자폐증이 가장 낮음 (HR 1.07, CI 1.03-1.11)</li>
+</ul></li>
 </ul>
 
+<img data-src="figure09.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="sensitivity-analyses-supp.-table-8-9" class="slide level2" data-number="7">
+<h2><span class="header-section-number">7</span> Sensitivity Analyses (Supp. Table 8-9)</h2>
+<p><strong>요약</strong>: Main 분석결과를 뒷받침 하는 경향</p>
+<ul>
+<li>(<strong>2회이상 복용조건</strong>) 모든 신경정신질환 HR≥1.00
+<ul>
+<li>지적장애가 가장 높고(HR 1.20, CI 1.13-1.28),</li>
+<li>자폐증이 가장 낮음(HR 1.07, CI 1.01-1.14).</li>
+</ul></li>
+<li>(<strong>기저질환 자녀제외</strong>) 모든 신경정신질환 HR≥1.00
+<ul>
+<li>ADHD(HR 1.14, CI 1.11-1.16) 및 중증 신경정신장애(HR 1.14, CI 1.08-1.20)가 가장 높고,</li>
+<li>자폐증이 가장 낮음(HR 1.04, CI 1.00-1.09).</li>
+</ul></li>
+</ul>
 </section>
+<section id="subgroup-analyses-figure-3" class="slide level2" data-number="8">
+<h2><span class="header-section-number">8</span> Subgroup Analyses (Figure 3)</h2>
+<section id="임신말기-복용과-강박장애를-제외하고-모두-양의-관계" style="text-align: center;">
+<h4>임신말기 복용과 강박장애를 제외하고 모두 양의 관계(+)</h4>
+</section>
+<p><br> <br></p>
+<ul>
+<li>약제별 Subgroup 분석결과는 대체로 유사
+<ul>
+<li>H2 수용체 길항제는 강박장애 위험을 제외하고 p&lt;.05 수준에서 HR≥1.00</li>
+</ul></li>
+<li>임신기간별<sup>1</sup> 분석결과, 대체로 임신초기 복용 시 위험이 높음
+<ul>
+<li>대체로 임신 초기 복용시 p&lt;.05 수준에서 HR≥1.00</li>
+<li>한편 강박장애는 임신 말기 복용시 오히려 감소(HR 0.89, CI 0.72-1.10)</li>
+</ul></li>
+</ul>
+<aside><ol class="aside-footnotes"><li id="fn4"><p>마지막 생리일로부터 0~90일(first), 91~180일(second), 181일~출산(third)</p></li></ol></aside></section>
+<section id="sibling-matched-analysis-figure-4" class="slide level2" data-number="9">
+<h2><span class="header-section-number">9</span> Sibling-Matched Analysis (Figure 4)</h2>
+<ul>
+<li>같은 어머니에게서 태어난, 노출여부가 다른 형제자매 분석
+<ul>
+<li>Main Analyses에서는 복용-발생위험 간 연관성이 나타났었음</li>
+<li>Sibling-Matched 분석(어머니 고정효과?)에서는 연관이 사라짐</li>
+</ul></li>
+</ul>
+
+<img data-src="figure10.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="discussion" class="slide level2" data-number="10">
+<h2><span class="header-section-number">10</span> Discussion</h2>
+<ul>
+<li>대규모 전체 코호트에서는 작은 연관성이 관찰되었으나, 형제자매 비교분석에서는 사라짐.
+<ul>
+<li>이전 동물실험(모체 장내 미생물군과 태아의 신경발달손상) 연구결과와 상반</li>
+<li>조산아의 위산억제제 사용과 신경정신질환 위험증가 연구결과와도 상반</li>
+</ul></li>
+<li>가족 요인에 의한 잔여 교란요인 가능성이 큼.</li>
+</ul>
+<div style="text-align: center;">
+<p><strong>“산모의 위산억제제 복용과 자녀의 신경정신질환 발생위험 증가는<strong><br>
+</strong>직접적인 인과경로가 확인되지 않음”</strong></p>
+</div>
+</section>
+<section id="limitations" class="slide level2" data-number="11">
+<h2><span class="header-section-number">11</span> Limitations</h2>
+<ol type="1">
+<li><p>약을 처방받았다고 해서 반드시 먹은건 아님.<br>
+처방이 조제-복용으로 반드시 이어진다는 보장 없음.</p></li>
+<li><p>Stratified Cox model(어머니 고정효과)로 미관측 교란요인을 통제했지만,<br>
+시변변수에 따른 미관측 교랸요인은 남아있음(산모 BMI, 생활습관 등)</p></li>
+<li><p>유전적 요인들이 체계적으로 통제되지 않았음</p></li>
+<li><p>미처방 의약품(OTC)은 기록이 남지 않아 변수오염 가능성 있음.<sup>1</sup></p></li>
+<li><p>생존 태아만 대상으로 분석(유산 등은 제외).</p></li>
+<li><p>한국인 대상 연구로, 타 인종으로 일반화하기 어려움</p></li>
+</ol>
+
+<aside><ol class="aside-footnotes"><li id="fn5"><p>한편 한국에선 규제수준이 높고 Universal Coverage 건강보험이 있어서 OTC 영향력은 낮을 것으로 예상</p></li></ol></aside></section>
 
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
