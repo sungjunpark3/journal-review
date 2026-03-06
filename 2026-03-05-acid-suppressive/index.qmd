@@ -257,15 +257,9 @@ $$
 
 ## Subgroup Analyses (Figure 3)
 
-
-<div style="text-align: center;">
-
-#### 임신말기 복용과 강박장애를 제외하고 모두 양의 관계(+)
-
-</div>
-
-<br>
-<br>
+::: {.callout-tip appearance="simple"}
+**임신말기 복용과 강박장애를 제외하고 모두 양의 관계(+)**
+:::
 
 * 약제별 Subgroup 분석결과는 대체로 유사
   + H2 수용체 길항제는 강박장애 위험을 제외하고 p<.05 수준에서 HR≥1.00
