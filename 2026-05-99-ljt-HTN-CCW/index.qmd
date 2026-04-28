@@ -1,0 +1,21 @@
+---
+title: "A CCW Survival Study"
+subtitle: "Acupuncture & Hypertension"
+number-sections: true
+number-depth: 3
+toc: true
+toc-depth: 1
+format: 
+  revealjs:
+    theme: [simple, ../_assets/css/custom.scss]
+author: Sungjun Park
+date: 2026-05-99
+---
+
+발표자료의 얼개부터 짭시다
+
+## 
+
+## Summary
+
+test 

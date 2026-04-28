@@ -1,5 +1,5 @@
 ---
-title: Journal Review
+title: Things that working on
 author: Sungjun Park
 format: html
 ---
@@ -14,6 +14,6 @@ table td:first-child {
 </style>
 ```
 
-|Date       |Article Reviewed|
+|Date       |Subject|
 |:----------|:------|
 |2026-03-06|[Prenatal Exposure to Acid-Suppressive Medications and Risk of Neuropsychiatric Disorders in Children](2026-03-05-acid-suppressive/index.html)
